@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Mingrui YU
 tagline:          'HomePage of Mingrui YU'
-description:      'HomePage of Mingrui YU'
+description:      'An autonomous robot learner'
 url:              https://github.com/Mingrui-Yu/Mingrui-Yu.github.io
 baseurl:          /
 
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/Mingrui-Yu
