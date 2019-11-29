@@ -234,8 +234,8 @@ social_icons:
 
 
 # Sidebar Avatar
-in directory: /assets/images/
-avatar: mingrui.jpg
+in directory: /assets/images/mingrui.jpg
+avatar: /assets/images/mingrui.jpg
 
 
 # Table Of Contents in the Sidebar
