@@ -1,7 +1,7 @@
 ---
 title: 基于树莓派的智能小车
 description: 功能实现：自动避障、实时图像传输、目标检测、网球追踪
-categories:
+categories: Articles
 tags:
 ---
 
