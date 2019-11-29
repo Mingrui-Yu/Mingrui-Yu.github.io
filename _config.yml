@@ -233,9 +233,9 @@ social_icons:
   知乎: zhihu
 
 
-Sidebar Avatar
+# Sidebar Avatar
 in directory: /assets/images/mingrui.jpg
-avatar:
+avatar: true
 
 
 # Table Of Contents in the Sidebar
