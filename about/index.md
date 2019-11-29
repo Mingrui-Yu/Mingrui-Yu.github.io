@@ -1,7 +1,7 @@
 ---
 layout: page
 type: about
-title: Mingrui YU
+title: Mingrui YU (Harry)
 ---
 
 I'm currently an undergraduate student at the Faculty of Electronic and Information at Xi'an Jiaotong University. 
