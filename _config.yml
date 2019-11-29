@@ -119,6 +119,7 @@ index_with_subtitle: false
 menu:
   home: /
   about: /about/
+  publication: /publication/
   categories: /categories/
   #archives: /archives/
   tags: /tags/
@@ -136,6 +137,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
+  publication: book
   categories: th
   schedule: calendar
   tags: tags
