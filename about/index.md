@@ -3,7 +3,7 @@ layout: page
 type: about
 ---
 
-# Education
+##  Education
 
 I'm currently an undergraduate student at the Faculty of Electronic and Information at Xi'an Jiaotong University. 
 
