@@ -8,13 +8,14 @@ I'm currently an undergraduate student at the Faculty of Electronic and Informat
 
 I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree. My research interests will include robot localization and navigation. 
 
+***
 ## Education
 
 **Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - present*  
 B.Eng.(Honors) in Automation  
 GPA: 4.10/4.3, Ranking: 1/35
 
-
+***
 ## Awards and Honors
 
 ### Competitions
