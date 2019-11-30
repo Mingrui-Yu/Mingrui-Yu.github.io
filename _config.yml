@@ -220,6 +220,7 @@ social:
   #LinkLabel: Link
   Github: https://github.com/Mingrui-Yu
   知乎: https://www.zhihu.com/people/yu-ming-rui-34/activities
+  Email: mingrui.yu@outlook.com : mingrui.yu@outlook.com
 
 
 # Social Links Icons
@@ -233,7 +234,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   知乎: zhihu
-  Email: mingrui.yu@outlook.com : mingrui.yu@outlook.com
+  
 
 
 # Sidebar Avatar
