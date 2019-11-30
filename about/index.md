@@ -5,7 +5,6 @@ title: Mingrui YU (Harry)
 ---
 
 Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)  
-TEL: (+86)18661758297
 
 I'm currently an undergraduate student at the Faculty of Electronic and Information at Xi'an Jiaotong University. 
 
