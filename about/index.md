@@ -1,7 +1,7 @@
 ---
 layout: page
 type: about
-title: Mingrui YU (Harry)
+title: Mingrui YU | 于铭瑞 | Harry YU
 ---
 
 Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)  
