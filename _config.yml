@@ -220,6 +220,7 @@ social:
   #LinkLabel: Link
   GitHub: https://github.com/Mingrui-Yu
   知乎: https://www.zhihu.com/people/yu-ming-rui-34/activities
+  博客园: https://www.cnblogs.com/MingruiYu/
 
 
 # Social Links Icons
@@ -231,8 +232,8 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  知乎: zhihu
+  # GitHub: github
+  # 知乎: zhihu
 
 
 # Sidebar Avatar
