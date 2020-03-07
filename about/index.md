@@ -8,7 +8,7 @@ Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)
 
 I'm currently an undergraduate student at the Faculty of Electronic and Information at Xi'an Jiaotong University. 
 
-I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree. My research interests will include robot localization and navigation. 
+I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests will include robotic localization and navigation. 
 
 ***
 ## Education
