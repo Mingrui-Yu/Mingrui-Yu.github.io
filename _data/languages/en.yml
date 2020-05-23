@@ -8,6 +8,7 @@ title:
   tags: Tags
   about: About
   publication: Publication
+  project:Project
 
 author: Author
 
@@ -18,6 +19,7 @@ menu:
   tags: Tags
   about: About me
   publication: Publication
+  project: Project
   search: Search
   schedule: Schedule
   sitemap: Sitemap
