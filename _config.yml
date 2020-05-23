@@ -120,9 +120,10 @@ menu:
   home: /
   about: /about/
   publication: /publication/
-  categories: /categories/
+  project: /project/
+  #categories: /categories/
   #archives: /archives/
-  tags: /tags/
+  #tags: /tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -133,11 +134,12 @@ menu:
 #   Key is the name of menu item and value is the name of FontAwesome icon. Key is case-senstive.
 #   When an question mask icon presenting up means that the item has no mapping icon.
 menu_icons:
-  enable: true
+  enable: false
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
   publication: book
+  project:
   categories: th
   schedule: calendar
   tags: tags
