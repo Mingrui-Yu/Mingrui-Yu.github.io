@@ -4,12 +4,12 @@ type: about
 title: Mingrui YU | 于铭瑞 | Harry YU
 ---
 
-Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)  
 
+* Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)  
+* [GitHub](https://github.com/Mingrui-Yu)
+* [中文博客](https://www.cnblogs.com/MingruiYu/)
+* [知乎](https://www.zhihu.com/people/yu-ming-rui-34/activities)
 
-[GitHub](https://github.com/Mingrui-Yu)
-&emsp; [中文博客](https://www.cnblogs.com/MingruiYu/)
-&emsp; [知乎](https://www.zhihu.com/people/yu-ming-rui-34/activities)
 
 I'm currently an undergraduate student at the School of Automation at Xi'an Jiaotong University. 
 
@@ -23,19 +23,16 @@ B.Eng.(Honors) in Automation
 GPA: 4.10/4.3, Ranking: 1/35
 
 ***
-## Awards and Honors
+## Awards & Honors
 
-### Competitions
-COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018* 
-
-### Scholarships
 First-class Scholarship at XJTU &emsp; *2019*  
-National Scholarship &emsp; *2018*
+China National Scholarship &emsp; *2018*  
+COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018*  
+Siyuan Scholarship &emsp; *2017*  
+Outstanding Student at XJTU &emsp; *2017/2018/2019*
 
 ***
 ## Hobbies
-
-I love cars since I was a little boy, and that's my initial motivation to make some contribution in the field of robotics in my career.
 
 I love playing ping-pong, badminton, and tennis. I have learned playing the guitar, but unfortunately I haven't played for about 3 years. I like singing which makes me relaxed, though I cannot do very well.
 
