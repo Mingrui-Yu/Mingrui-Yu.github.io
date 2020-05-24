@@ -26,7 +26,11 @@ Contents:
 * Extension and application of Depth No-Synthesis-Error model for view synthesis in 3D video.
 * Color guided depth map restoration for synthesized view quality enhancement.
 
+&emsp;
+
 ***
+
+&emsp;
 
 Some small pilot projects are listed here:
 
