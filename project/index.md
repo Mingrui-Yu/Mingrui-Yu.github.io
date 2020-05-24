@@ -38,5 +38,5 @@ Some small pilot projects are listed here:
 
 In this curriculum project, we utilize Raspberry Pi 3 and some other accessories to design a simple intelligent car. The functions we have implemented include obstacle avoidance, video transmittion from Pi to PC, lane tracking, object detection, and tennis tracking.
 
-[[Details](https://github.com/Mingrui-Yu/RaspberryCar)] [[Code](https://github.com/Mingrui-Yu/RaspberryCar)]
+[[Details](https://mingrui-yu.github.io/RaspberryCar/)] [[Code](https://github.com/Mingrui-Yu/RaspberryCar)]
 
