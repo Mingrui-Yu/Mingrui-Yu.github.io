@@ -30,13 +30,16 @@ Contents:
 * Color guided depth map restoration for synthesized view quality enhancement.
 
 &emsp;
+
 ***
+
 &emsp;
 
 Some small pilot projects are listed here:
 
 ## An Intelligent Car based on Raspberry Pi
 
-In this curriculum project, we utilize Raspberry Pi 3 and some other accessories to design a simple intelligent car. The functions we have implemented include obstacle avoidance, video transmittion from Pi to PC, lane tracking, object detection, and tennis tracking.  
+In this curriculum project, we utilize Raspberry Pi 3 and some other accessories to design a simple intelligent car. The functions we have implemented include obstacle avoidance, video transmittion from Pi to PC, lane tracking, object detection, and tennis tracking.
+
 [[Details](https://github.com/Mingrui-Yu/RaspberryCar)] [[Code](https://github.com/Mingrui-Yu/RaspberryCar)]
 

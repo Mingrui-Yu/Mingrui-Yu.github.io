@@ -7,8 +7,8 @@ title:
   categories: Categories
   tags: Tags
   about: About
-  publication: Publication
-  project: Project
+  publication: Publications
+  project: Projects
 
 author: Author
 
@@ -18,8 +18,8 @@ menu:
   categories: Categories
   tags: Tags
   about: About me
-  publication: Publication
-  project: Project
+  publication: Publications
+  project: Projects
   search: Search
   schedule: Schedule
   sitemap: Sitemap
