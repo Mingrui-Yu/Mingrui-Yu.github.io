@@ -11,20 +11,23 @@ title: Mingrui YU | 于铭瑞 | Harry YU
 * [知乎](https://www.zhihu.com/people/yu-ming-rui-34/activities)
 
 
-I'm currently an undergraduate student at the School of Automation at Xi'an Jiaotong University. 
-
-I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests will include robotic localization and navigation. 
+I received the Bachelor degree from Xi'an Jiaotong University in 2020. I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests will include robotic localization and navigation. 
 
 ***
 ## Education
 
-**Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - present*  
-B.Eng.(Honors) in Automation  
-GPA: 4.10/4.3, Ranking: 1/35
+**Tsinghua University, Beijing, China** &emsp; *2020 - present*
+
+
+**Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - 2020*  
+B.Eng. in Automation (Honors Engineering Program)  
+GPA: 4.09/4.3, Ranking: 1/35
 
 ***
 ## Awards & Honors
 
+Outstanding graduate at XJTU &emsp; *2020*  
+Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
 First-class Scholarship at XJTU &emsp; *2019*  
 China National Scholarship &emsp; *2018*  
 COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018*  
@@ -34,6 +37,6 @@ Outstanding Student at XJTU &emsp; *2017/2018/2019*
 ***
 ## Hobbies
 
-I love playing ping-pong, badminton, and tennis. I have learned playing the guitar, but unfortunately I haven't played for about 3 years. I like singing which makes me relaxed, though I cannot do very well.
+I love playing ping-pong, badminton, and tennis. I have learned playing the classical guitar. I like singing which makes me relaxed, though I cannot do very well.
 
 My ideal in life is to enjoy my life, whatever happens.
