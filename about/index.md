@@ -5,7 +5,7 @@ title: Mingrui YU | 于铭瑞 | Harry YU
 ---
 
 
-* Email: [mingrui.yu@outlook.com](mailto:mingrui.yu@outlook.com)  
+* Email: [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn)  
 * [GitHub](https://github.com/Mingrui-Yu)
 * [中文博客](https://www.cnblogs.com/MingruiYu/)
 * [知乎](https://www.zhihu.com/people/yu-ming-rui-34/activities)
@@ -16,10 +16,13 @@ I received the Bachelor degree from Xi'an Jiaotong University in 2020. I will jo
 ***
 ## Education
 
-**Tsinghua University, Beijing, China** &emsp; *2020 - present*
+**Tsinghua University, Beijing, China** &emsp; *2020 - present*  
+Department of Automation  
+Ph.D. student in Control Science and Technology
 
 
 **Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - 2020*  
+Department of Automation  
 B.Eng. in Automation (Honors Engineering Program)  
 GPA: 4.09/4.3, Ranking: 1/35
 

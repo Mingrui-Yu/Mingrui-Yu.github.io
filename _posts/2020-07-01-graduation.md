@@ -6,7 +6,7 @@ categories:
 tags:
 ---
 
-As the graduation ceremony of students in Xi'an Jiaotong University was successfully held at July 1st 2020, I have to say goodbye to this place I love. Since entering this top-tier university in China in August 2016, I have spent a full and memorable four years of undergraduate life, in which I fortunately made acquaintance with many great professors and schoolmates. 
+As the graduation ceremony of students in Xi'an Jiaotong University was successfully held at July 2nd 2020, I have to say goodbye to this place I love. Since entering this top-tier university in China in August 2016, I have spent a full and memorable four years of undergraduate life, in which I fortunately made acquaintance with many great professors and schoolmates. 
 
 ![](https://mingrui-yu.github.io/pics/20200701/graduation.jpg)
 
