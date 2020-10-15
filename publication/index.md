@@ -6,9 +6,6 @@ title: Publications
 
 ## Patents
 
-1. Yisheng Lv, Jiajun Chai, **Mingrui Yu**, Yuanyuan Chen, Gang Xiong, Fenghua Zhu, Feiyue Wang,
-Traffic signal control method and system with deep reinforcement learning, China, Application
-Number: 201910629489.1, Date: 12 Jul. 2019.
+1. 吕宜生, 柴嘉骏, **于铭瑞**, 陈圆圆, 熊刚, 朱凤华, 王飞跃. 基于深度强化学习单路口交通信号控制方法、系统、装置. 申请号：2019106294891, 申请日：2019.07.12. 申请公布号：CN110428615A，申请公布日：2019.11.08.
 
-2. Hongbin Sun, Zhixiong Nan, **Mingrui Yu**, Ping Wei, Linhai Xu, Nanning Zheng, A lane keeping
-control method for vehicles, China, Application Number: 201810004757.6, Date: 03 Jan. 2018.
+2. 孙宏滨, 南智雄, **于铭瑞**, 魏平, 徐林海, 郑南宁. 一种车辆的车道保持控制方法. 申请号：2018100047576, 申请日：2018.01.03. 授权公告号：CN108297866B, 授权公告日：2019.10.15.
