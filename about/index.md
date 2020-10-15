@@ -11,7 +11,7 @@ title: Mingrui YU | 于铭瑞 | Harry YU
 * [知乎](https://www.zhihu.com/people/yu-ming-rui-34/activities)
 
 
-I received the Bachelor degree from Xi'an Jiaotong University in 2020. I will join the Department of Automation at Tsinghua University in 2020 fall to pursue the Ph.D. degree, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests will include robotic manipulation, especially for deformable objects. 
+I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects. 
 
 ***
 ## Education
