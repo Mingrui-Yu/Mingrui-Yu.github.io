@@ -27,6 +27,8 @@ phase duration.
 * Proposed a phase sensitive neural network structure based on DDPG model.
 * Developed some interesting training techniques.
 
+[[Paper](https://ieeexplore.ieee.org/document/9327396)]
+
 ## Image processing in color+depth based 3D vision systems
 
 * 02/2018 - 11/2018
