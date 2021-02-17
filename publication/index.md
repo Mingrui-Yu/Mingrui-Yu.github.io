@@ -5,7 +5,7 @@ title: Publications
 ---
 
 ## Conference Papers
-1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 6419-6425, doi: 10.1109/CAC51589.2020.9327396.
+1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 6419-6425, doi: [10.1109/CAC51589.2020.9327396](https://doi.org/10.1109/CAC51589.2020.9327396).
 
 ## Patents
 
