@@ -4,8 +4,13 @@ layout: page
 title: Publications
 ---
 
+## Preprint Papers
+1. **M. Yu**, H. Zhong, F. Zhong and X. Li, "[Adaptive Control for Robotic Manipulation of Deformable Linear Objects with Offline and Online Learning of Unknown Models](https://arxiv.org/abs/2107.00194)," arXiv preprint arXiv:2107.00194, 2021.
+
+
 ## Conference Papers
-1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 6419-6425, doi: [10.1109/CAC51589.2020.9327396](https://doi.org/10.1109/CAC51589.2020.9327396).
+1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "[An effective deep reinforcement learning approach for adaptive traffic signal control](https://doi.org/10.1109/CAC51589.2020.9327396)," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 6419-6425.
+
 
 ## Patents
 
