@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects. 
+I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects. 
 
 Education
 ======
