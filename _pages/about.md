@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects. 
+I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects.
+
+Email: [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn)  
 
 ***
 
@@ -29,13 +31,13 @@ GPA: 4.09/4.3, Ranking: 1/35
 
 Awards & Honors
 ======
-Outstanding graduate at XJTU &emsp; *2020*  
-Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
-First-class Scholarship at XJTU &emsp; *2019*  
-China National Scholarship &emsp; *2018*  
-COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018*  
-Siyuan Scholarship &emsp; *2017*  
-Outstanding Student at XJTU &emsp; *2017/2018/2019*
+* Outstanding graduate at XJTU &emsp; *2020*  
+* Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
+* First-class Scholarship at XJTU &emsp; *2019*  
+* China National Scholarship &emsp; *2018*  
+* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018*  
+* Siyuan Scholarship &emsp; *2017*  
+* Outstanding Student at XJTU &emsp; *2017/2018/2019*
 
 ***
 
