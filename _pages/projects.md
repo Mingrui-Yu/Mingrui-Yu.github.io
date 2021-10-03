@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-layout: page
-
-title: Projects
----
-
 ## Seq-CALC: lightweight and robust deep loop detection for SLAM
 
 * 03/2020 - 05/2020
