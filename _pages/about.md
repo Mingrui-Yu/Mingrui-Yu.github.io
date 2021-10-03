@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingrui YU | 于铭瑞 | Harry YU"
+title: "Mingrui YU / 于铭瑞 / Harry YU"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
