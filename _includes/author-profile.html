@@ -115,6 +115,12 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
+      {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="ai ai-impactstory ai-fw"></i> 博客</a></li>
+      {% endif %}
+      {% if author.zhihu %}
+        <li><a href="{{ author.zhihu }}"><i class="ai ai-impactstory ai-fw"></i> 知乎</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
