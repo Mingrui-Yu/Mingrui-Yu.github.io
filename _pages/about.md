@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests includes robotic manipulation, especially for deformable objects.
+I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). My research interests include robotic manipulation, especially for deformable objects.
 
 Email: [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn)  
 
@@ -44,7 +44,7 @@ Awards & Honors
 Publications
 ======
 **Preprint Papers**
-1. **M. Yu**, H. Zhong, and X. Li, "[Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models](https://arxiv.org/abs/2109.11091)," arXiv preprint arXiv:2109.11091, 2021.
+1. **M. Yu**, H. Zhong, and X. Li, "[Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models](https://arxiv.org/abs/2109.11091)," arXiv preprint arXiv:2109.11091, 2021. (submitted to ICRA 2022)
 
 **Conference Papers**
 1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "[An effective deep reinforcement learning approach for adaptive traffic signal control](https://doi.org/10.1109/CAC51589.2020.9327396)," 2020 Chinese Automation Congress (CAC), Shanghai, China, 2020, pp. 6419-6425.
