@@ -25,6 +25,10 @@ We propose a lightweight SLAM loop detection method based on deep learning. An u
 * 03/2020 - 05/2020
 * Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
 
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/Mingrui-Yu/A-Simple-Stereo-SLAM-System/master/docs/pics/running.gif">
+</p>
+
 This is a simple stereo SLAM system with a deep-learning based loop closure module ([Seq-CALC](https://github.com/Mingrui-Yu/Seq-CALC)). As a beginner of SLAM, I made this system mainly in order to practice my coding and engineering skills to build a full SLAM system by myself. The structure of the system is simple and clear, in which I didn't apply much detailed optimization. Thus, the performance of this system is not outstanding. Such a simple structure may be friendly for a SLAM beginner to study the body frame of a full SLAM system.
 
 [[Details](https://mingrui-yu.github.io/A-Simple-Stereo-SLAM-System/)] [[Code](https://github.com/Mingrui-Yu/A-Simple-Stereo-SLAM-System)]
