@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Target Capture of Space Robot
+
+* 12/2021
+* Course Project of *Space Robot* Course, Tsinghua University
+
+<p align="center">
+<iframe width="640" height="360" src="//player.bilibili.com/player.html?aid=252657952&bvid=BV1jY411p7Nk&cid=471247927&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+</p>
+
+
 ## Seq-CALC: lightweight and robust deep loop detection for SLAM
 
 * 03/2020 - 05/2020
