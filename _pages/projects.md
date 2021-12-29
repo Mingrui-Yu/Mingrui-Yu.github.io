@@ -15,6 +15,10 @@ redirect_from:
 * Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
 * Advisor: Prof. Pengju Ren
 
+<p align="center">
+  <img width="50%" src="https://raw.githubusercontent.com/Mingrui-Yu/Seq-CALC/master/docs/experiment_KITTI_3d.png">
+</p>
+
 We propose a lightweight SLAM loop detection method based on deep learning. An unsupervised denoising auto-encoder network is trained to extract an image’s deep descriptor, which uses the projective-transformed images as input data, and HOG descriptor as the reconstruction object. Besides, we apply PCA to reduce the descriptor’s dimension, and combine linear query with fast approximate nearest neighbor search to further improve the efficiency. With the help of sequence match, we significantly improve its accurary. The results of experiments on NVIDIA TX2 demonstrate that, our Seq-CALC outperforms DBoW3 in terms of both accurary and efficiency on various challenging datasets. Its accuary is even close to NetVLAD under certain conditions. We open-source the C++ library of Seq-CALC, which can be conveniently embedded in any SLAM system.
 
 [[Details](https://mingrui-yu.github.io/Seq-CALC/)] [[Code](https://github.com/Mingrui-Yu/Seq-CALC)] [[本科毕业论文](https://www.jianguoyun.com/p/DVqHhNIQ-9KLBxi40dkD)]
@@ -38,6 +42,10 @@ This is a simple stereo SLAM system with a deep-learning based loop closure modu
 
 * 10/2019 - 12/2019
 * Xi'an Jiaotong University
+
+<p align="center">
+  <img width="40%" src="https://i.loli.net/2019/10/31/SpHzE7MBRfkr5aN.gif">
+</p>
 
 In this curriculum project, we utilize Raspberry Pi 3 and some other accessories to design a simple intelligent car. The functions we have implemented include obstacle avoidance, video transmittion from Pi to PC, lane tracking, object detection, and tennis tracking.
 
