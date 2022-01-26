@@ -16,13 +16,12 @@ Email: [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn)
 
 Education
 ======
-**Tsinghua University, Beijing, China** &emsp; *2020 - present*  
-Department of Automation  
-Ph.D. student in Control Science and Technology
+**Department of Automation, Tsinghua University, Beijing, China** &emsp; *2020 - present*  
+Ph.D. student in Control Science and Engineering  
+Major GPA: 4.0/4.0
 
 
-**Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - 2020*  
-Department of Automation  
+**Department of Automation, Xi'an Jiaotong University, Xi'an, China**  &emsp;  *2016 - 2020*  
 B.Eng. in Automation (Honors Engineering Program)  
 GPA: 4.09/4.3, Ranking: 1/35
 
