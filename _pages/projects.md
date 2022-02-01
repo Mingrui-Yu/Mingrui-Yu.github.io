@@ -18,9 +18,9 @@ redirect_from:
 
 The shape control of deformable linear objects (DLOs) is challenging, since it is difficult to obtain the deformation models. Previous studies often approximate the models in purely offline or online ways. In this paper, we propose a scheme for the shape control of DLOs, where the unknown model is estimated with both offline and online learning. The simulation and real-world experiments show that the proposed method can precisely and efficiently accomplish the DLO shape control tasks, and adapt well to new and untrained DLOs.
 
-<p align="center">
+<!-- <p align="center">
 <iframe width="320" height="180" src="https://www.youtube.com/embed/au4TDZFrFHc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</p> -->
 
 [[Details](https://mingrui-yu.github.io/shape_control_DLO/)] [[Code](https://github.com/Mingrui-Yu/shape_control_DLO)]
 
