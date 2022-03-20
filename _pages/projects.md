@@ -14,17 +14,14 @@ redirect_from:
 * 02/2021 - present
 * Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
 * Advisor: Prof. Xiang Li
-* A paper accepted by ICRA 2022
-
-The shape control of deformable linear objects (DLOs) is challenging, since it is difficult to obtain the deformation models. Previous studies often approximate the models in purely offline or online ways. In this paper, we propose a scheme for the shape control of DLOs, where the unknown model is estimated with both offline and online learning. The simulation and real-world experiments show that the proposed method can precisely and efficiently accomplish the DLO shape control tasks, and adapt well to new and untrained DLOs.
 
 <p align="center">
   <img width="60%" src="https://raw.githubusercontent.com/Mingrui-Yu/Mingrui-Yu.github.io/master/images/shape_control_DLO_icra_2022.gif">
 </p>
 
+The shape control of deformable linear objects (DLOs) is challenging, since it is difficult to obtain the deformation models. Previous studies often approximate the models in purely offline or online ways. In this paper, we propose a scheme for the shape control of DLOs, where the unknown model is estimated with both offline and online learning. The simulation and real-world experiments show that the proposed method can precisely and efficiently accomplish the DLO shape control tasks, and adapt well to new and untrained DLOs.
 
-[[Details](https://mingrui-yu.github.io/shape_control_DLO/)] [[Code](https://github.com/Mingrui-Yu/shape_control_DLO)]
-
+[[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
 
 ## Target Capture of Space Robot
 
