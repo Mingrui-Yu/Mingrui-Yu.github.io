@@ -9,6 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+## ICRA2022 RoboMaster University Sim2Real Challenge
+* 03/2022
+* Our team ranked 4th in the simulation stage of the competition.
+<p align="center">
+<iframe width="640" height="360" src="https://player.bilibili.com/player.html?aid=510340759&bvid=BV1zu411i7fw&cid=564452340&page=1" title="bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p>
+
+The [RoboMaster University Sim2Real Challenge at ICRA 2022](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html) aims to optimize the system performance of a robotic task which consists of perception, navigation and manipulation. The first stage is the simulation stage, in which teams will focus on developing algorithms in a simulated environment and completing the challenge mission. In the simulation stage, our team ranked 4th among all 50+ participating teams (according to the task performance). 
+Totally 27 teams enter the second sim2real stage. Unfortunately, according to the competition rules, only one team from each school can enter the second stage. A team also from Tsinghua University performed slightly better than us and ranked 3rd. Therefore, it was a pity that we could not enter the sim2real stage.
+
+
 ## Shape Control of Deformable Linear Objects
 
 * 02/2021 - present
