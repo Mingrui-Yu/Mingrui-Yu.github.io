@@ -50,6 +50,7 @@ Publications
 ======
 
 **Preprint Papers**
+1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," 2022. (Under review) [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
 **Conference Papers**
 
