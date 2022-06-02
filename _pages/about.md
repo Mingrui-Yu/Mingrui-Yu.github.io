@@ -36,6 +36,7 @@ Topic: Reinforment learning for intelligent transportation system
 
 Awards & Honors
 ======
+* 2nd place in ICRA 2022 RoboMaster University Sim2Real Challenge &emsp; *2022*  
 * Outstanding graduate at XJTU &emsp; *2020*  
 * Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
 * First-class Scholarship at XJTU &emsp; *2019*  
