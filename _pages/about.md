@@ -41,7 +41,7 @@ Awards & Honors
 * Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
 * First-class Scholarship at XJTU &emsp; *2019*  
 * China National Scholarship &emsp; *2018*  
-* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) &emsp; *2018*  
+* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
 * Siyuan Scholarship &emsp; *2017*  
 * Outstanding Student at XJTU &emsp; *2017/2018/2019*
 
@@ -51,7 +51,7 @@ Publications
 ======
 
 **Journal Papers**
-1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," IEEE Transactions on Robotics, 2022. (accepted) [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
+1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," IEEE Transactions on Robotics, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
 **Conference Papers**
 
