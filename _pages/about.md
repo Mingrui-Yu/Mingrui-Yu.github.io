@@ -36,19 +36,24 @@ Topic: Reinforment learning for intelligent transportation system
 
 Awards & Honors
 ======
+* 清华校友-李衍达励学基金 (Tsinghua Li-Yanda Scholarship) &emsp; *2022*  
 * 2nd place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022*  
-* Outstanding graduate at XJTU &emsp; *2020*  
-* Honorary graduate of Qian Xuesen College, XJTU  &emsp; *2020*  
-* First-class Scholarship at XJTU &emsp; *2019*  
-* China National Scholarship &emsp; *2018*  
+* 西安交大优秀毕业生 (Outstanding graduate at XJTU) &emsp; *2020*   
+* 西安交大一等奖学金 (First-class Scholarship at XJTU) &emsp; *2019*  
+* 国家奖学金 (China National Scholarship) &emsp; *2018*  
 * COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
-* Siyuan Scholarship &emsp; *2017*  
-* Outstanding Student at XJTU &emsp; *2017/2018/2019*
+* 思源奖学金 (Siyuan Scholarship) &emsp; *2017*  
+* 西安交大优秀学生 (Outstanding Student at XJTU) &emsp; *2017/2018/2019*
 
 ***
 
 Publications
 ======
+
+**Preprint Papers**
+1. **M. Yu**, K. Lv, C. Wang, M Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", arXiv preprint arXiv:2209.11145, 2022. [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
+
+2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Occlusion-Robustly Estimate 3-D states of Deformable Linear Objects from Single-Frame Point Clouds”, arXiv preprint arXiv:2210.01433, 2022. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception.mp4)]
 
 **Journal Papers**
 1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," IEEE Transactions on Robotics, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
