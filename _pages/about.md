@@ -53,7 +53,8 @@ Publications
 **Preprint Papers**
 1. **M. Yu**, K. Lv, C. Wang, M Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", arXiv preprint arXiv:2209.11145, 2022. [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
 
-2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Occlusion-Robustly Estimate 3-D states of Deformable Linear Objects from Single-Frame Point Clouds”, arXiv preprint arXiv:2210.01433, 2022. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception.mp4)]
+2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Occlusion-Robustly Estimate 3-D states of Deformable Linear Objects from Single-Frame Point Clouds”, arXiv preprint arXiv:2210.01433, 2022. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
+
 
 **Journal Papers**
 1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," IEEE Transactions on Robotics, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
