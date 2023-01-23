@@ -50,20 +50,16 @@ Awards & Honors
 Publications
 ======
 
-**Preprint Papers**
-1. **M. Yu**, K. Lv, C. Wang, M Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", arXiv preprint arXiv:2209.11145, 2022. (accpted by ICRA 2023) [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
-
-2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Occlusion-Robustly Estimate 3-D states of Deformable Linear Objects from Single-Frame Point Clouds”, arXiv preprint arXiv:2210.01433, 2022. (accepted by ICRA 2023) [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
-
-
 **Journal Papers**
 1. **M. Yu**, K. Lv, H. Zhong, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," IEEE Transactions on Robotics, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
 **Conference Papers**
 
-1. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
-1. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
-1. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
+1. **M. Yu**, K. Lv, C. Wang, M Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023. [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
+2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Occlusion-Robustly Estimate 3-D states of Deformable Linear Objects from Single-Frame Point Clouds”, 2023 IEEE International Conference on Robotics and Automation (ICRA), 2023. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
+3. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
+4. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
+5. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
 
 **Patents**
 1. 吕宜生, 柴嘉骏, **于铭瑞**, 陈圆圆, 熊刚, 朱凤华, 王飞跃. 基于深度强化学习单路口交通信号控制方法、系统、装置. 申请号：2019106294891, 申请日：2019.07.12. 授权公告号：CN110428615B，授权公告日：2021.06.22.
