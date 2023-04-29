@@ -14,7 +14,7 @@ redirect_from:
 * 04/2022 - now
 * Publication: ICRA 2023
 * Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li
+* Advisor: Prof. Xiang Li, Prof. Masayoshi Tomizuka
 
 <p align="center">
   <img width="60%" src="../files/icra23_planning.gif">
