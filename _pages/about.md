@@ -23,7 +23,7 @@ Education
 ======
 **Department of Automation, Tsinghua University (Beijing, China)** &emsp; *2020 - present*  
 Ph.D. student in Control Science and Engineering  
-Major GPA: 4.0/4.0
+GPA: 3.95/4.0
 
 **Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *2016 - 2020*  
 B.Eng. in Automation (Honors Engineering Program)  
@@ -41,10 +41,10 @@ Topic: Reinforment learning for intelligent transportation system
 
 Awards & Honors
 ======
-* 清华校友-李衍达励学基金 (Tsinghua Li-Yanda Scholarship) &emsp; *2022*  
-* 2nd place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022*  
-* 西安交大优秀毕业生 (Outstanding graduate at XJTU) &emsp; *2020*   
-* 西安交大一等奖学金 (First-class Scholarship at XJTU) &emsp; *2019*  
+* 清华大学综合优秀奖学金（一等）(Tsinghua Comprehensive Excellence Scholarship (First Class)) &emsp; *2022*  
+* 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022*  
+* 西安交大优秀毕业生 (Outstanding Graduate at XJTU) &emsp; *2020*   
+* 西安交大一等奖学金 (First-Class Scholarship at XJTU) &emsp; *2019*  
 * 国家奖学金 (China National Scholarship) &emsp; *2018*  
 * COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
 * 思源奖学金 (Siyuan Scholarship) &emsp; *2017*  

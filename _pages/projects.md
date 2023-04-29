@@ -9,14 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+## Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance
+
+* 04/2022 - now
+* Publication: ICRA 2023
+* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+* Advisor: Prof. Xiang Li
+
+<p align="center">
+  <img width="60%" src="../files/icra23_planning.gif">
+</p>
+
+Manipulating deformable linear objects (DLOs) to
+achieve desired shapes in constrained environments with obstacles is a meaningful but challenging task. We propose a coarse-to-fine framework to combine global planning and local control for dual-arm manipulation of DLOs, capable of precisely achieving desired configurations and avoiding potential collisions between the DLO, robot, and obstacles. Both simulations and real-world experiments demonstrate that our framework can robustly achieve desired DLO configurations in constrained environments with imprecise DLO models, which may not be reliably achieved by only planning or control.
+
+
+## Learning to Estimate 3-D States of Deformable Linear Objects from Occluded Single-Frame Point Clouds
+
+* 04/2022 - now
+* Publication: ICRA 2023
+* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+* Advisor: Prof. Xiang Li
+
+<p align="center">
+  <img width="60%" src="../files/icra23_perception.gif">
+</p>
+
+We focus on learning to robustly estimate the states
+of DLOs from single-frame point clouds in the presence of
+occlusions using a data-driven method. Simulation and real-world experimental results demonstrate
+that our method can generate globally smooth and locally
+precise DLO state estimation results even with heavily occluded point clouds, which can be directly applied to real-world robotic manipulation of DLOs in 3-D space.
+
 
 ## Global Model Learning for Large Deformation Control of Deformable Linear Objects
 
 * 02/2021 - 08/2022
-* Publication: one paper in IEEE T-RO, one paper in IEEE ICRA
+* Publication: IEEE T-RO 2022 + ICRA 2022
 * Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
 * Advisor: Prof. Xiang Li
-
 
 <p align="center">
   <img width="60%" src="../files/3D_all.gif">
