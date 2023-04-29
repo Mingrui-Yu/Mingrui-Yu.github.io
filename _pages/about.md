@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Mingrui YU / 于铭瑞 / Harry YU"
 excerpt: "About me"
