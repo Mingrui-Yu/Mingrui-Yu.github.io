@@ -80,6 +80,7 @@ Projects
 [Project Page](https://mingrui-yu.github.io/projects)
 
 ***
+
 Academic Service
 ======
 * Reviewer for IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters
