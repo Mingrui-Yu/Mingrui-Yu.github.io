@@ -23,13 +23,14 @@ redirect_from:
 Manipulating deformable linear objects (DLOs) to
 achieve desired shapes in constrained environments with obstacles is a meaningful but challenging task. We propose a coarse-to-fine framework to combine global planning and local control for dual-arm manipulation of DLOs, capable of precisely achieving desired configurations and avoiding potential collisions between the DLO, robot, and obstacles. Both simulations and real-world experiments demonstrate that our framework can robustly achieve desired DLO configurations in constrained environments with imprecise DLO models, which may not be reliably achieved by only planning or control.
 
+[[ICRA Website](https://mingrui-yu.github.io/DLO_planning/)]
 
 ## Learning to Estimate 3-D States of Deformable Linear Objects from Occluded Single-Frame Point Clouds
 
 * 04/2022 - now
 * Publication: ICRA 2023
 * Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li
+* Advisor: Prof. Xiang Li, Prof. Gao Huang
 
 <p align="center">
   <img width="60%" src="../files/icra23_perception.gif">
