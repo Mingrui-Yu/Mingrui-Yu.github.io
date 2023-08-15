@@ -30,6 +30,13 @@ GPA: 3.95/4.0
 B.Eng. in Automation (Honors Engineering Program)  
 GPA: 4.09/4.3, Ranking: 1/35
 
+***
+
+Research Experience
+======
+**Institute of Automation, Chinese Academy of Sciences (Beijing, China)** &emsp; *2018 - 2019*  
+Topic: Reinforment learning for intelligent transportation system
+
 
 ***
 

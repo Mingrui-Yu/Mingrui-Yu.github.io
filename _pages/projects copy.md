@@ -70,6 +70,19 @@ The [RoboMaster University Sim2Real Challenge at ICRA 2022](https://air.tsinghua
 
 
 
+## Target Capture of Space Robot
+
+* 12/2021
+* Course Project of *Space Robot* Course, Tsinghua University
+
+<p align="center">
+<iframe width="640" height="360" src="https://player.bilibili.com/player.html?aid=252657952&bvid=BV1jY411p7Nk&cid=471247927&page=1" title="bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p>
+
+In this course project, we propose a scheme for capturing a target satellite out of control using a space robot. The space robot is a service satellite with two robot manipulators. During the on-orbit service, the space robot needs to capture the disabled and spinning target satellite, stop its spinning, restabilize it, and fix it up. We design the robot mechanics and the gripper mechanics, analyze the workspace of the manipulators, and simulate the target capture process based on the PyBullet simulator.
+
+[[课程报告](https://www.jianguoyun.com/p/DcLPcAQQ-9KLBxjT0KUE)] [[Code](https://github.com/Mingrui-Yu/space_robot)]
+
 
 ## Seq-CALC: lightweight and robust deep loop detection for SLAM
 
