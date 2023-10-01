@@ -22,13 +22,25 @@ Email: [mingruiyu98@gmail.com](mailto:mingruiyu98@gmail.com) (recommended); [ymr
 
 Education
 ======
-**Department of Automation, Tsinghua University (Beijing, China)** &emsp; *2020 - present*  
+**Department of Automation, Tsinghua University (Beijing, China)** &emsp; *08/2020 - present*  
 Ph.D. student in Control Science and Engineering  
 GPA: 3.95/4.0
 
-**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *2016 - 2020*  
+**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *08/2016 - 07/2020*  
 B.Eng. in Automation (Honors Engineering Program)  
 GPA: 4.09/4.3, Ranking: 1/35
+
+***
+
+Research Experience
+======
+**Mechanical Systems Control Lab, University of California, Berkeley** &emsp; *10/2023 - 03/2024*  
+Advisor: Prof. Masayoshi Tomizuka  
+Topic: Robotic manipulation of deformable objects  
+
+**Institute of Automation, Chinese Academy of Sciences (Beijing, China)** &emsp; *07/2018 - 06/2019*  
+Advisor: Prof. Yisheng Lv  
+Topic: Reinforment learning for intelligent transportation system
 
 
 ***
@@ -77,7 +89,7 @@ Projects
 Academic Service
 ======
 
-* Reviewer for IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters
+* Reviewer for IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
 * Reviewer for IEEE ICRA, IROS, ...
 * Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR)
 
