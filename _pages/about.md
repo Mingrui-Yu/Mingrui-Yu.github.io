@@ -34,8 +34,8 @@ GPA: 4.09/4.3, Ranking: 1/35
 
 Research Experience
 ======
-**Mechanical Systems Control Lab, University of California, Berkeley** &emsp; *10/2023 - 03/2024*  
-Advisor: Prof. Masayoshi Tomizuka  
+**[Mechanical Systems Control Lab](https://msc.berkeley.edu/), University of California, Berkeley** &emsp; *10/2023 - 03/2024*  
+Advisor: [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/)  
 Topic: Robotic manipulation of deformable objects  
 
 **Institute of Automation, Chinese Academy of Sciences (Beijing, China)** &emsp; *07/2018 - 06/2019*  
