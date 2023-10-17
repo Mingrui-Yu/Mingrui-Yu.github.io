@@ -62,6 +62,9 @@ Awards & Honors
 Publications
 ======
 
+**Preprint**
+1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", 2023. [[arXiv](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
+
 **Journal Papers**
 1. **M. Yu**, K. Lv, H. Zhong, S. Song, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," **IEEE Transactions on Robotics**, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
