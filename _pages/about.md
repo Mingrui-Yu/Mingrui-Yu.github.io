@@ -27,7 +27,7 @@ Ph.D. student in Control Science and Engineering
 GPA: 3.95/4.0
 
 **Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *08/2016 - 07/2020*  
-B.Eng. in Automation (Honors Engineering Program)  
+B.Eng. in Automation (Honors Engineering Program, 钱学森班)  
 GPA: 4.09/4.3, Ranking: 1/35
 
 ***
@@ -92,7 +92,7 @@ Projects
 Academic Service
 ======
 
-* Reviewer for IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
+* Reviewer for IEEE Transactions on Robotics, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
 * Reviewer for IEEE ICRA, IROS, ...
 * Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR)
 
