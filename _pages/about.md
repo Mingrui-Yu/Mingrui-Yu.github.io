@@ -35,7 +35,7 @@ Research Experience
 ======
 **Mechanical Systems Control Lab, University of California, Berkeley** &emsp; *10/2023 - 03/2024*  
 Advisor: Prof. Masayoshi Tomizuka  
-Topic: Tactile-based robotic manipulation of (deformable) objects  
+Topic: Dexterous manipulation of (deformable) objects  
 
 **Institute of Automation, Chinese Academy of Sciences (Beijing, China)** &emsp; *07/2018 - 06/2019*  
 Advisor: Prof. Yisheng Lv  
