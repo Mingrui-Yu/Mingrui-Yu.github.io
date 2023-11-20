@@ -9,11 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). 
+I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). Currently, I am a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka]((https://me.berkeley.edu/people/masayoshi-tomizuka/)). I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. 
 
-Currently, I'm mainly researching the robotic manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. 
-In addition, I'm broadly interested in machine learning, planning, and control with their applications to robotic manipulation, including 
-dexterous manipulation of various objects, learning for manipulation, and human-robot interaction.
+I am mainly researching the robotic manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. 
+In addition, I'm broadly interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects.
 
 
 Email: [mingruiyu98@gmail.com](mailto:mingruiyu98@gmail.com) (recommended); [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn) (国内使用).
@@ -35,8 +34,8 @@ GPA: 4.09/4.3, Ranking: 1/35
 Research Experience
 ======
 **Mechanical Systems Control Lab, University of California, Berkeley** &emsp; *10/2023 - 03/2024*  
-Advisor: [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/)  
-Topic: Robotic manipulation of deformable objects  
+Advisor: Prof. Masayoshi Tomizuka  
+Topic: Tactile-based robotic manipulation of (deformable) objects  
 
 **Institute of Automation, Chinese Academy of Sciences (Beijing, China)** &emsp; *07/2018 - 06/2019*  
 Advisor: Prof. Yisheng Lv  
