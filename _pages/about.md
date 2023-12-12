@@ -61,6 +61,19 @@ Publications
 5. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
 
 
+**Patents**
+
+1. 吕宜生, 柴嘉骏, **于铭瑞**, 陈圆圆, 熊刚, 朱凤华, 王飞跃. 基于深度强化学习单路口交通信号控制方法、系统、装置. 申请号：2019106294891, 申请日：2019.07.12. 授权公告号：CN110428615B，授权公告日：2021.06.22.
+
+2. 孙宏滨, 南智雄, **于铭瑞**, 魏平, 徐林海, 郑南宁. 一种车辆的车道保持控制方法. 申请号：2018100047576, 申请日：2018.01.03. 授权公告号：CN108297866B, 授权公告日：2019.10.15.
+
+***
+
+Competitions
+======
+* 2nd Place in ICRA 2023 Virtual Manipulation Challenge  &emsp; *2023* 
+* 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022* 
+* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*
 
 ***
 
@@ -68,20 +81,11 @@ Awards & Honors
 ======
 * Best Paper Award at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects &emsp; *2023* 
 * 清华大学综合优秀奖学金 (Tsinghua Comprehensive Excellence Scholarship) &emsp; *2022/2023*  
-* 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022*  
 * 西安交大优秀毕业生 (Outstanding Graduate at XJTU) &emsp; *2020*   
 * 西安交大一等奖学金 (First-Class Scholarship at XJTU) &emsp; *2019*  
 * 国家奖学金 (China National Scholarship) &emsp; *2018*  
-* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*  
 * 思源奖学金 (Siyuan Scholarship) &emsp; *2017*  
 * 西安交大优秀学生 (Outstanding Student at XJTU) &emsp; *2017/2018/2019*
-
-
-
-**Patents**
-1. 吕宜生, 柴嘉骏, **于铭瑞**, 陈圆圆, 熊刚, 朱凤华, 王飞跃. 基于深度强化学习单路口交通信号控制方法、系统、装置. 申请号：2019106294891, 申请日：2019.07.12. 授权公告号：CN110428615B，授权公告日：2021.06.22.
-
-2. 孙宏滨, 南智雄, **于铭瑞**, 魏平, 徐林海, 郑南宁. 一种车辆的车道保持控制方法. 申请号：2018100047576, 申请日：2018.01.03. 授权公告号：CN108297866B, 授权公告日：2019.10.15.
 
 ***
 
