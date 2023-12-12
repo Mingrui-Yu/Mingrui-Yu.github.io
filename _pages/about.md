@@ -81,7 +81,7 @@ Competitions
 
 Awards & Honors
 ======
-* Best Paper Award at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects [[Website](https://deformable-workshop.github.io/icra2023/)] &emsp; *2023* 
+* Best Paper Award at [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/) &emsp; *2023* 
 * 清华大学综合优秀奖学金 (Tsinghua Comprehensive Excellence Scholarship) &emsp; *2022/2023*  
 * 西安交大优秀毕业生 (Outstanding Graduate at XJTU) &emsp; *2020*   
 * 西安交大一等奖学金 (First-Class Scholarship at XJTU) &emsp; *2019*  
