@@ -58,7 +58,9 @@ Publications
 2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Estimate 3-D states of Deformable Linear Objects from Single-Frame Occluded Point Clouds”, 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
 3. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
 4. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
-5. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
+5. F. Xiong, Y. Ding, **M. Yu**, W. Zhao, N. Zheng, P. Ren, "A lightweight sequence-based unsupervised loop closure detection," 2021 International Joint Conference on Neural Networks (IJCNN), 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9534180)]
+6. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
+
 
 
 **Patents**
@@ -71,7 +73,7 @@ Publications
 
 Competitions
 ======
-* 2nd Place in ICRA 2023 Virtual Manipulation Challenge  &emsp; *2023* 
+* 2nd Place in ICRA 2023 Virtual Manipulation Challenge  [[Certificate](https://mingrui-yu.github.io/files/icra23_virtual_manipulation_challenge_certificate.pdf)] &emsp; *2023* 
 * 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022* 
 * COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*
 
@@ -79,7 +81,7 @@ Competitions
 
 Awards & Honors
 ======
-* Best Paper Award at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects &emsp; *2023* 
+* Best Paper Award at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects [[Website](https://deformable-workshop.github.io/icra2023/)] &emsp; *2023* 
 * 清华大学综合优秀奖学金 (Tsinghua Comprehensive Excellence Scholarship) &emsp; *2022/2023*  
 * 西安交大优秀毕业生 (Outstanding Graduate at XJTU) &emsp; *2020*   
 * 西安交大一等奖学金 (First-Class Scholarship at XJTU) &emsp; *2019*  
@@ -100,7 +102,7 @@ Academic Service
 
 * Reviewer for IEEE Transactions on Robotics, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
 * Reviewer for IEEE ICRA, IROS, ...
-* Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR)
+* Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/rcar23_volunteer.pdf)]
 
 
 
