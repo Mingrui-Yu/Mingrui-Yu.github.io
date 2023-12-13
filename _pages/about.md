@@ -73,9 +73,9 @@ Publications
 
 Competitions
 ======
-* 2nd Place in ICRA 2023 Virtual Manipulation Challenge  [[Certificate](https://mingrui-yu.github.io/files/icra23_virtual_manipulation_challenge_certificate.pdf)] &emsp; *2023* 
-* 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/icra22_sim2real_certificate.pdf)] &emsp; *2022* 
-* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/mcm_certificate.pdf)] &emsp; *2018*
+* 2nd Place in ICRA 2023 Virtual Manipulation Challenge  [[Certificate](https://mingrui-yu.github.io/files/23_icra_virtual_manipulation_challenge_certificate.pdf)] &emsp; *2023* 
+* 2nd Place in ICRA 2022 RoboMaster University Sim2Real Challenge [[Certificate](https://mingrui-yu.github.io/files/22_icra_sim2real_certificate.pdf)] &emsp; *2022* 
+* COMAP Mathematical Contest in Modeling, Finalist Winners (Top 0.5%) [[Certificate](https://mingrui-yu.github.io/files/18_mcm_certificate.pdf)] &emsp; *2018*
 
 ***
 
@@ -102,7 +102,7 @@ Academic Service
 
 * Reviewer for IEEE Transactions on Robotics, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
 * Reviewer for IEEE ICRA, IROS, ...
-* Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/rcar23_volunteer.pdf)]
+* Key volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/23_rcar_volunteer.pdf)]
 
 
 

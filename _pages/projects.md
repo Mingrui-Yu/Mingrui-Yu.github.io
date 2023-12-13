@@ -9,15 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-## Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance
 
-* 04/2022 - now
-* Publication: ICRA 2023
-* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li, Prof. Masayoshi Tomizuka
+## Generalizable Global Manipulation of Deformable Linear Objects in Constrained Environments
+
+* 10/2022 - 10/2023
+* Intelligent Robotic Manipulation Lab, Tsinghua University / Mechanical Systems Control Lab, UC Berkeley
+* Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
 
 <p align="center">
-  <img width="60%" src="../files/icra23_planning.gif">
+  <img width="60%" src="../files/23_DLO_planning_journal.gif">
+</p>
+
+This article focuses on the global moving and shaping of DLOs in constrained environments by dual-arm robots. The main objectives are 1) to efficiently and accurately accomplish this task, and 2) to achieve generalizable and robust manipulation of various DLOs. 
+
+To this end, we propose a complementary framework with whole-body planning and control using appropriate DLO model representations. 
+
+Experiments demonstrate that our framework can accomplish considerably more complicated tasks than existing works. It achieves a 100% planning success rate among thousands of trials with an average time cost of less than 15 second, and a 100% manipulation success rate among 135 real-world tests on five different DLOs.
+
+[[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
+
+## Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance
+
+* 04/2022 - 09/2022
+* Publication: ICRA 2023
+* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+* Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
+
+<p align="center">
+  <img width="60%" src="../files/23_icra_planning.gif">
 </p>
 
 Manipulating deformable linear objects (DLOs) to
@@ -30,10 +49,10 @@ achieve desired shapes in constrained environments with obstacles is a meaningfu
 * 04/2022 - now
 * Publication: ICRA 2023
 * Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li, Prof. Gao Huang
+* Advisor: Prof. Xiang Li / Prof. Gao Huang
 
 <p align="center">
-  <img width="60%" src="../files/icra23_perception.gif">
+  <img width="60%" src="../files/23_icra_perception.gif">
 </p>
 
 We focus on learning to robustly estimate the states
@@ -51,7 +70,7 @@ precise DLO state estimation results even with heavily occluded point clouds, wh
 * Advisor: Prof. Xiang Li
 
 <p align="center">
-  <img width="60%" src="../files/3D_all.gif">
+  <img width="60%" src="../files/22_TRO.gif">
 </p>
 
 We propose a coupled offline and online data-driven method for efficiently learning a global deformation model, allowing for both accurate modeling through offline learning and further updating for new DLOs via online adaptation. We also propose a convex-optimization-based controller and analyze the system's stability using the Lyapunov method. Detailed simulations and real-world experiments demonstrate that our method can efficiently and precisely estimate the deformation model, and achieve large deformation control of untrained DLOs in 2D and 3D dual-arm manipulation tasks better than the existing methods. learning.
