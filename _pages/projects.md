@@ -17,7 +17,7 @@ redirect_from:
 * Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
 
 <p align="center">
-  <img width="60%" src="../files/23_DLO_planning_journal.gif">
+  <img width="60%" src="../files/23_DLO_planning_journal.mp4">
 </p>
 
 This article focuses on the global moving and shaping of DLOs in constrained environments by dual-arm robots. The main objectives are 1) to efficiently and accurately accomplish this task, and 2) to achieve generalizable and robust manipulation of various DLOs. 
