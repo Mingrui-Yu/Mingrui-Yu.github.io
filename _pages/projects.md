@@ -21,9 +21,7 @@ redirect_from:
 </p>
 
 This article focuses on the global moving and shaping of DLOs in constrained environments by dual-arm robots. The main objectives are 1) to efficiently and accurately accomplish this task, and 2) to achieve generalizable and robust manipulation of various DLOs. 
-
 To this end, we propose a complementary framework with whole-body planning and control using appropriate DLO model representations. 
-
 Experiments demonstrate that our framework can accomplish considerably more complicated tasks than existing works. It achieves a 100% planning success rate among thousands of trials with an average time cost of less than 15 second, and a 100% manipulation success rate among 135 real-world tests on five different DLOs.
 
 [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
