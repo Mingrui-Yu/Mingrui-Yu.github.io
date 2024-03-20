@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). Currently, I am a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka]((https://me.berkeley.edu/people/masayoshi-tomizuka/)). I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. 
+I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). During 2023 to 2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka]((https://me.berkeley.edu/people/masayoshi-tomizuka/)). I received the Bachelor degree from Xi'an Jiaotong University (XJTU) in 2020. 
 
 I am mainly researching the robotic manipulation of deformable objects, aiming to make it robust, practical, and easy-to-apply. 
 In addition, I'm broadly interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects.
@@ -47,14 +47,18 @@ Publications
 ======
 
 **Preprint**
-1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", 2023. [[arXiv](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
+1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", 2023. [[arXiv](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
+
+1. **M. Yu**, B. Liang, X. Zhang, X. Zhu, X. Li, M. Tomizuka, "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing", 2024. [[arXiv](https://arxiv.org/abs/2403.12676)] [[Website](https://mingrui-yu.github.io/DLO_following/)]
+
+1. Y. Jiang, **M. Yu** , X. Zhu,  M. Tomizuka, X. Li, "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach", 2024. [[arXiv](https://arxiv.org/abs/2402.18897)] [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
 
 **Journal Papers**
 1. **M. Yu**, K. Lv, H. Zhong, S. Song, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," **IEEE Transactions on Robotics**, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
 **Conference Papers**
 
-1. **M. Yu**, K. Lv, C. Wang, M Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. (**Best Paper Award** at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects) [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
+1. **M. Yu**, K. Lv, C. Wang, M. Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. (**Best Paper Award** at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects) [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
 2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Estimate 3-D states of Deformable Linear Objects from Single-Frame Occluded Point Clouds”, 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
 3. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
 4. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
