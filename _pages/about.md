@@ -48,9 +48,7 @@ Publications
 
 **Preprint**
 1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", 2023. [[arXiv](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
-
 1. **M. Yu**, B. Liang, X. Zhang, X. Zhu, X. Li, M. Tomizuka, "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing", 2024. [[arXiv](https://arxiv.org/abs/2403.12676)] [[Website](https://mingrui-yu.github.io/DLO_following/)]
-
 1. Y. Jiang, **M. Yu** , X. Zhu,  M. Tomizuka, X. Li, "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach", 2024. [[arXiv](https://arxiv.org/abs/2402.18897)] [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
 
 **Journal Papers**
