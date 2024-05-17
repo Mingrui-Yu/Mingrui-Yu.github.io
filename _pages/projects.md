@@ -10,6 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
+## ICRA 2024 Robotic Grasping and Manipulation Competition - In-Hand Manipulation Track
+* 03/2024 - 05/2024
+<p align="center">
+<iframe width="360" height="640" src="../files/24_ICRA_RGMC.mp4" title="24_ICRA_RGMC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p>
+
+The [Robotic Grasping and Manipulation Competition - In-Hand Manipulation Track](https://cse.usf.edu/~yusun/rgmc/2024.html) is focused on reconfiguring objects in robot dexterous hands. The competition tasks focus on two essential skills: in-hand precise manipulation and in-hand object re-orientation. Our solution involving an open-sourced Leap Hand, trajectory optimization, and reinforcement learning won the 1st place of the in-hand manipulation competition, and also won the Most Elegant Solution Award among all tracks in the RGMC.
+
+
+
 ## Generalizable Global Manipulation of Deformable Linear Objects in Constrained Environments
 
 * 10/2022 - 10/2023
