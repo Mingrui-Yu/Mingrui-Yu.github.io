@@ -18,6 +18,19 @@ redirect_from:
 
 The [Robotic Grasping and Manipulation Competition - In-Hand Manipulation Track](https://cse.usf.edu/~yusun/rgmc/2024.html) is focused on reconfiguring objects in robot dexterous hands. The competition tasks focus on two essential skills: in-hand precise manipulation and in-hand object re-orientation. Our solution involving an open-sourced Leap Hand, trajectory optimization, and reinforcement learning won the 1st place of the in-hand manipulation competition, and also won the Most Elegant Solution Award among all tracks in the RGMC.
 
+## In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing
+
+* 12/2023 - 03/2024
+* Mechanical Systems Control Lab, UC Berkeley
+* Advisor: Prof. Masayoshi Tomizuka / Prof. Xiang Li
+
+<p align="center">
+<iframe width="640" height="360" src="../files/24_iros_dlo_following.mp4" title="24_iros_dlo_following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+</p>
+
+Most research on deformable linear object (DLO) manipulation assumes rigid grasping. However, beyond rigid grasping and re-grasping, in-hand following is also an essential skill that humans use to dexterously manipulate DLOs. In this work, inspired by how humans use fingers to follow DLOs, we explore the usage of a generic dexterous hand with tactile sensing to imitate human skills and achieve robust in-hand DLO following. To enable the hardware system to function in the real world, we develop a framework that includes Cartesian-space arm-hand control, tactile-based in-hand 3-D DLO pose estimation, and task-specific motion design.
+
+[[Website](https://mingrui-yu.github.io/DLO_following/)]
 
 
 ## Generalizable Global Manipulation of Deformable Linear Objects in Constrained Environments
