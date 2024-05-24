@@ -13,7 +13,7 @@ I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the De
 
 I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
 
-I am leading a NSFC Youth Student Research Project (for PhD students) / 首批国家自然科学基金青年学生基础研究项目（博士生项目）entitled "Visual-tactile dexterous manipulation of deformable linear objects with a dual-arm robot". 
+I am leading an NSFC Youth Student Research Project (for PhD students) / 首批国家自然科学基金青年学生基础研究项目（博士生项目）entitled "Visual-tactile dexterous manipulation of deformable linear objects with a dual-arm robot". 
 
 Email: [mingruiyu98@gmail.com](mailto:mingruiyu98@gmail.com) (recommended); [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn) (国内使用).
 
