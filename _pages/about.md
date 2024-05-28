@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). During 2023 to 2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka]((https://me.berkeley.edu/people/masayoshi-tomizuka/)). 
+I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). During 2023 to 2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/). 
 
 I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
 
@@ -25,7 +25,7 @@ Education
 Ph.D. student in Control Science and Engineering  
 GPA: 3.95/4.0
 
-**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *08/2016 - **07**/2020*  
+**Department of Automation, Xi'an Jiaotong University (Xi'an, China)**  &emsp;  *08/2016 - 07/2020*  
 B.Eng. in Automation (Honors Engineering Program, 钱学森班)  
 GPA: 4.09/4.3, Ranking: 1/35
 
