@@ -9,7 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree at the Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home). From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
+From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
 I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
 
@@ -33,6 +34,10 @@ GPA: 4.09/4.3, Ranking: 1/35
 
 # Research Experience
 
+**Robotics X, Tencent (Shenzhen, China)** &emsp; _06/2024 - 09/2024_  
+Advisor: Dr. Yu Zheng  
+Topic: Contact-rich dexterous manipulation with multi-finger hands
+
 **Mechanical Systems Control Lab, University of California, Berkeley** &emsp; _10/2023 - 03/2024_  
 Advisor: Prof. Masayoshi Tomizuka  
 Topic: Dexterous manipulation of (deformable) objects
@@ -48,22 +53,25 @@ Topic: Reinforment learning for intelligent transportation system
 **Preprint**
 
 1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", submitted to IJRR, 2023. [[arXiv](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
-2. **M. Yu**, B. Liang, X. Zhang, X. Zhu, X. Li, M. Tomizuka, "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing", submitted to IROS, 2024. [[arXiv](https://arxiv.org/abs/2403.12676)] [[Website](https://mingrui-yu.github.io/DLO_following/)]
-3. Y. Jiang, **M. Yu** , X. Zhu, M. Tomizuka, X. Li, "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach", submitted to IROS, 2024. [[arXiv](https://arxiv.org/abs/2402.18897)] [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
 
 **Journal Papers**
 
 1. **M. Yu**, K. Lv, H. Zhong, S. Song, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," **IEEE Transactions on Robotics**, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 
+1. **于铭瑞**, 李翔, "面向线状柔性物体的机器人操作研究进展与展望"，[机器人](https://robot.sia.cn/)，2024.
+
 **Conference Papers**
 
-1. **M. Yu**, K. Lv, C. Wang, M. Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. (**Best Paper Award** at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects) [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
-2. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Estimate 3-D states of Deformable Linear Objects from Single-Frame Occluded Point Clouds”, 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
-3. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
-4. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021 中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
-5. H. Zhong, Z. Xu, G. Ma, **M. Yu**, and X. Li, "Regressor-Based Model Adaptation for Shaping Deformable Linear Objects with Force Control," 2023 IEEE Interational Conference on Robotics and Biomimetics (ROBIO), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10354796)]
-6. F. Xiong, Y. Ding, **M. Yu**, W. Zhao, N. Zheng, P. Ren, "A lightweight sequence-based unsupervised loop closure detection," 2021 International Joint Conference on Neural Networks (IJCNN), 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9534180)]
-7. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
+1. **M. Yu**, B. Liang, X. Zhang, X. Zhu, L. Sun, C. Wang, X. Li, M. Tomizuka, "In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024. (**Oral**, Top 12%) [[Paper](https://arxiv.org/abs/2403.12676)] [[Website](https://mingrui-yu.github.io/DLO_following/)]
+2. Y. Jiang, **M. Yu** , X. Zhu, M. Tomizuka, X. Li, "Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024. [[Paper](https://arxiv.org/abs/2402.18897)] [[Website](https://director-of-g.github.io/in_hand_manipulation/)]
+3. X. Yan, S. Luo, Y. Jiang, **M. Yu**, C. Chen, G. Huang, X. Li, "A Unified Interaction Control Framework for Safe Robotic Ultrasound Scanning with Human-Intention-Aware Compliance", 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2024. (**Oral**, Top 12%)
+4. **M. Yu**, K. Lv, C. Wang, M. Tomizuka, and X. Li, "A Coarse-to-Fine Framework for Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance", 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. (**Best Paper Award** at the ICRA 2023 Workshop on Representing and Manipulating Deformable Objects) [[Paper](https://arxiv.org/abs/2209.11145)] [[Website](https://mingrui-yu.github.io/DLO_planning)]
+5. K. Lv, **M. Yu**, Y. Pu, and X. Li, “Learning to Estimate 3-D states of Deformable Linear Objects from Single-Frame Occluded Point Clouds”, 2023 IEEE International Conference on Robotics and Automation (**ICRA**), 2023. [[Paper](https://arxiv.org/abs/2210.01433)] [[Video](https://mingrui-yu.github.io/videos/ICRA23_DLO_perception_video.mp4)]
+6. **M. Yu**, H. Zhong, and X. Li, "Shape Control of Deformable Linear Objects with Offline and Online Learning of Local Linear Deformation Models," 2022 IEEE International Conference on Robotics and Automation (**ICRA**), 2022. [[Paper](https://arxiv.org/abs/2109.11091)] [[Website](https://mingrui-yu.github.io/shape_control_DLO/)]
+7. **于铭瑞**, 贾永奕, 李翔, "高危化工机器人研究与应用综述", 2021 中国自动化大会 (CAC), 2021. [[Paper](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDTEMP&filename=ZGZN202110001016&uniplatform=NZKPT&v=yTXq56-lHUDzP6r70Wst4lVFGnfv4CHYCDrmjizd_DZaM8yOR4dOTxj5IYdffmtQS2VgAE2EQ9Y%3d)]
+8. H. Zhong, Z. Xu, G. Ma, **M. Yu**, and X. Li, "Regressor-Based Model Adaptation for Shaping Deformable Linear Objects with Force Control," 2023 IEEE Interational Conference on Robotics and Biomimetics (ROBIO), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10354796)]
+9. F. Xiong, Y. Ding, **M. Yu**, W. Zhao, N. Zheng, P. Ren, "A lightweight sequence-based unsupervised loop closure detection," 2021 International Joint Conference on Neural Networks (IJCNN), 2021. [[Paper](https://ieeexplore.ieee.org/abstract/document/9534180)]
+10. **M. Yu**, J. Chai, Y. Lv and G. Xiong, "An effective deep reinforcement learning approach for adaptive traffic signal control," 2020 Chinese Automation Congress (CAC), 2020. [[Paper](https://doi.org/10.1109/CAC51589.2020.9327396)]
 
 **Patents**
 

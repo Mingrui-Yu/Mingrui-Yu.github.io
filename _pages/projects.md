@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-
 ## ICRA 2024 Robotic Grasping and Manipulation Competition - In-Hand Manipulation Track
-* 03/2024 - 05/2024
+
+- 03/2024 - 05/2024
 <p align="center">
 <iframe width="360" height="640" src="../files/24_ICRA_RGMC.mp4" title="24_ICRA_RGMC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
@@ -20,9 +20,10 @@ The [Robotic Grasping and Manipulation Competition - In-Hand Manipulation Track]
 
 ## In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing
 
-* 12/2023 - 03/2024
-* Mechanical Systems Control Lab, UC Berkeley
-* Advisor: Prof. Masayoshi Tomizuka / Prof. Xiang Li
+- 12/2023 - 03/2024
+- Publication: IROS 2024
+- Mechanical Systems Control Lab, UC Berkeley
+- Advisor: Prof. Masayoshi Tomizuka / Prof. Xiang Li
 
 <p align="center">
 <iframe width="640" height="360" src="../files/24_iros_dlo_following.mp4" title="24_iros_dlo_following" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
@@ -32,29 +33,28 @@ Most research on deformable linear object (DLO) manipulation assumes rigid grasp
 
 [[Website](https://mingrui-yu.github.io/DLO_following/)]
 
-
 ## Generalizable Global Manipulation of Deformable Linear Objects in Constrained Environments
 
-* 10/2022 - 10/2023
-* Intelligent Robotic Manipulation Lab, Tsinghua University / Mechanical Systems Control Lab, UC Berkeley
-* Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
+- 10/2022 - 10/2023
+- Intelligent Robotic Manipulation Lab, Tsinghua University / Mechanical Systems Control Lab, UC Berkeley
+- Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
 
 <p align="center">
 <iframe width="640" height="360" src="../files/23_DLO_planning_journal.mp4" title="23_DLO_planning_journal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
-This article focuses on the global moving and shaping of DLOs in constrained environments by dual-arm robots. The main objectives are 1) to efficiently and accurately accomplish this task, and 2) to achieve generalizable and robust manipulation of various DLOs. 
-To this end, we propose a complementary framework with whole-body planning and control using appropriate DLO model representations. 
+This article focuses on the global moving and shaping of DLOs in constrained environments by dual-arm robots. The main objectives are 1) to efficiently and accurately accomplish this task, and 2) to achieve generalizable and robust manipulation of various DLOs.
+To this end, we propose a complementary framework with whole-body planning and control using appropriate DLO model representations.
 Experiments demonstrate that our framework can accomplish considerably more complicated tasks than existing works. It achieves a 100% planning success rate among thousands of trials with an average time cost of less than 15 second, and a 100% manipulation success rate among 135 real-world tests on five different DLOs.
 
 [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
 
 ## Dual-Arm Manipulation of Deformable Linear Objects with Whole-Body Obstacle Avoidance
 
-* 04/2022 - 09/2022
-* Publication: ICRA 2023
-* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
+- 04/2022 - 09/2022
+- Publication: ICRA 2023
+- Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+- Advisor: Prof. Xiang Li / Prof. Masayoshi Tomizuka
 
 <p align="center">
   <img width="60%" src="../files/23_icra_planning.gif">
@@ -67,10 +67,10 @@ achieve desired shapes in constrained environments with obstacles is a meaningfu
 
 ## Learning to Estimate 3-D States of Deformable Linear Objects from Occluded Single-Frame Point Clouds
 
-* 04/2022 - now
-* Publication: ICRA 2023
-* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li / Prof. Gao Huang
+- 04/2022 - now
+- Publication: ICRA 2023
+- Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+- Advisor: Prof. Xiang Li / Prof. Gao Huang
 
 <p align="center">
   <img width="60%" src="../files/23_icra_perception.gif">
@@ -82,13 +82,12 @@ occlusions using a data-driven method. Simulation and real-world experimental re
 that our method can generate globally smooth and locally
 precise DLO state estimation results even with heavily occluded point clouds, which can be directly applied to real-world robotic manipulation of DLOs in 3-D space.
 
-
 ## Global Model Learning for Large Deformation Control of Deformable Linear Objects
 
-* 02/2021 - 08/2022
-* Publication: IEEE T-RO 2022 + ICRA 2022
-* Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
-* Advisor: Prof. Xiang Li
+- 02/2021 - 08/2022
+- Publication: IEEE T-RO 2022 + ICRA 2022
+- Intelligent Robotic Manipulation Lab, Department of Automation, Tsinghua University
+- Advisor: Prof. Xiang Li
 
 <p align="center">
   <img width="60%" src="../files/22_TRO.gif">
@@ -99,21 +98,19 @@ We propose a coupled offline and online data-driven method for efficiently learn
 [[T-RO Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
 [[ICRA Website](https://mingrui-yu.github.io/shape_control_DLO/)]
 
-
 ## ICRA2022 RoboMaster University Sim2Real Challenge
-* 03/2022 - 05/2022
+
+- 03/2022 - 05/2022
 <p align="center">
 <iframe width="640" height="360" src="https://player.bilibili.com/player.html?aid=510340759&bvid=BV1zu411i7fw&cid=564452340&page=1" title="bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </p>
 
-The [RoboMaster University Sim2Real Challenge at ICRA 2022](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html) aims to optimize the system performance of a robotic task which consists of perception, navigation and manipulation. The first stage is the simulation stage, in which teams will fus on developing algorithms in a simulated environment and completing the challenge mission. In the simulation stage, our team ranked 4th among all 117 participating teams (according to the task performance). 
-
-
+The [RoboMaster University Sim2Real Challenge at ICRA 2022](https://air.tsinghua.edu.cn/robomaster/sim2real_icra22.html) aims to optimize the system performance of a robotic task which consists of perception, navigation and manipulation. The first stage is the simulation stage, in which teams will fus on developing algorithms in a simulated environment and completing the challenge mission. In the simulation stage, our team ranked 4th among all 117 participating teams (according to the task performance).
 
 ## Target Capture of Space Robot
 
-* 12/2021
-* Course Project of *Space Robot* Course, Tsinghua University
+- 12/2021
+- Course Project of _Space Robot_ Course, Tsinghua University
 
 <p align="center">
 <iframe width="640" height="360" src="https://player.bilibili.com/player.html?aid=252657952&bvid=BV1jY411p7Nk&cid=471247927&page=1" title="bilibili video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
@@ -123,12 +120,11 @@ In this course project, we propose a scheme for capturing a target satellite out
 
 [[课程报告](https://www.jianguoyun.com/p/DcLPcAQQ-9KLBxjT0KUE)] [[Code](https://github.com/Mingrui-Yu/space_robot)]
 
-
 ## Seq-CALC: lightweight and robust deep loop detection for SLAM
 
-* 03/2020 - 05/2020
-* Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
-* Advisor: Prof. Pengju Ren
+- 03/2020 - 05/2020
+- Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
+- Advisor: Prof. Pengju Ren
 
 <p align="center">
   <img width="50%" src="https://raw.githubusercontent.com/Mingrui-Yu/Seq-CALC/master/docs/experiment_KITTI_3d.png">
@@ -138,11 +134,10 @@ We propose a lightweight SLAM loop detection method based on deep learning. An u
 
 [[Details](https://mingrui-yu.github.io/Seq-CALC/)] [[Code](https://github.com/Mingrui-Yu/Seq-CALC)] [[本科毕业论文](https://www.jianguoyun.com/p/DVqHhNIQ-9KLBxi40dkD)]
 
-
 ## A simple stereo SLAM system
 
-* 03/2020 - 05/2020
-* Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
+- 03/2020 - 05/2020
+- Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
 
 <p align="center">
   <img width="40%" src="https://raw.githubusercontent.com/Mingrui-Yu/A-Simple-Stereo-SLAM-System/master/docs/pics/running.gif">
@@ -152,11 +147,10 @@ This is a simple stereo SLAM system with a deep-learning based loop closure modu
 
 [[Details](https://mingrui-yu.github.io/A-Simple-Stereo-SLAM-System/)] [[Code](https://github.com/Mingrui-Yu/A-Simple-Stereo-SLAM-System)]
 
-
 ## An Intelligent Car based on Raspberry Pi
 
-* 10/2019 - 12/2019
-* Xi'an Jiaotong University
+- 10/2019 - 12/2019
+- Xi'an Jiaotong University
 
 <p align="center">
   <img width="40%" src="https://i.loli.net/2019/10/31/SpHzE7MBRfkr5aN.gif">
@@ -166,32 +160,29 @@ In this curriculum project, we utilize Raspberry Pi 3 and some other accessories
 
 [[Details](https://mingrui-yu.github.io/RaspberryCar/)] [[Code](https://github.com/Mingrui-Yu/RaspberryCar)]
 
+## Adaptive traffic signal control with deep reinforcement learning
 
-## Adaptive traffic signal control with deep reinforcement learning 
-
-* 07/2018 - 06/2019
-* Institute of Automation, Chinese Academy of Sciences
-* Advisor: Prof. Yisheng Lv
+- 07/2018 - 06/2019
+- Institute of Automation, Chinese Academy of Sciences
+- Advisor: Prof. Yisheng Lv
 
 Contents:
-* Proposed a DRL algorithm that automatically learns an optimal policy to adaptively determine
-phase duration.
-* Proposed a phase sensitive neural network structure based on DDPG model.
-* Developed some interesting training techniques.
+
+- Proposed a DRL algorithm that automatically learns an optimal policy to adaptively determine
+  phase duration.
+- Proposed a phase sensitive neural network structure based on DDPG model.
+- Developed some interesting training techniques.
 
 [[Paper](https://ieeexplore.ieee.org/document/9327396)]
 
 ## Image processing in color+depth based 3D vision systems
 
-* 02/2018 - 11/2018
-* Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
-* Advisor: Prof. Meng Yang
+- 02/2018 - 11/2018
+- Institute of Artificial Intelligence and Robotics, Xi’an Jiaotong University
+- Advisor: Prof. Meng Yang
 
 Contents:
-* Depth-based stereoscopic image zooming.
-* Extension and application of Depth No-Synthesis-Error model for view synthesis in 3D video.
-* Color guided depth map restoration for synthesized view quality enhancement.
 
-
-
-
+- Depth-based stereoscopic image zooming.
+- Extension and application of Depth No-Synthesis-Error model for view synthesis in 3D video.
+- Color guided depth map restoration for synthesized view quality enhancement.
