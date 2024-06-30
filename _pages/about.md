@@ -57,7 +57,7 @@ Topic: Reinforment learning for intelligent transportation system
 **Journal Papers**
 
 1. **M. Yu**, K. Lv, H. Zhong, S. Song, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," **IEEE Transactions on Robotics**, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
-1. **于铭瑞**, 李翔, "面向线状柔性物体的机器人操作研究进展与展望"，[机器人](https://robot.sia.cn/)，2024.
+1. **于铭瑞**, 李翔, "面向线状柔性物体的机器人操作研究进展与展望", [机器人](https://robot.sia.cn/), 2024.
 
 **Conference Papers**
 
