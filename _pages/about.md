@@ -9,12 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Mingrui YU, a robotics learner. I'm now pursuing the Ph.D. degree in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, under the supervision of [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
-From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, under the supervision of [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
+I am Mingrui YU, a robotics researcher. I'm now pursuing the Ph.D. degree in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, supervised by [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
+From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
+**Research Interest**: I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
 
 I am leading an NSFC Youth Student Research Project (for PhD students) / 首批国家自然科学基金青年学生基础研究项目（博士生项目）entitled "Visual-tactile dexterous manipulation of deformable linear objects with a dual-arm robot".
+
+**Future Opportunities**: I am open to potential academic and industry job opportunities following my graduation in June 2026. Please feel free to contact me.
 
 Email: [mingruiyu98@gmail.com](mailto:mingruiyu98@gmail.com) (recommended); [ymr20@mails.tsinghua.edu.cn](mailto:ymr20@mails.tsinghua.edu.cn) (国内使用).
 
@@ -22,9 +24,9 @@ Email: [mingruiyu98@gmail.com](mailto:mingruiyu98@gmail.com) (recommended); [ymr
 
 # Education
 
-**Department of Automation, Tsinghua University (Beijing, China)** &emsp; _08/2020 - present_  
-Ph.D. student in Control Science and Engineering  
-GPA: 3.95/4.0
+**Department of Automation, Tsinghua University (Beijing, China)** &emsp; _08/2020 - 06/2026 (expected)_  
+Ph.D. Student in Control Science and Engineering  
+GPA: 3.95/4.0, Ranking: 3/84
 
 **Department of Automation, Xi'an Jiaotong University (Xi'an, China)** &emsp; _08/2016 - 07/2020_  
 B.Eng. in Automation (Honors Engineering Program, 钱学森班)  
@@ -88,14 +90,14 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Awards & Honors
 
+- China National Scholarship for Graduate Students (研究生国家奖学金) (Ranked First in the Department) &emsp; _2024_
 - Best Paper Award at [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/) &emsp; _2023_
 - T.J. Tarn Best Paper Award in Robotics Finalist at 2023 IEEE ROBIO [[Certificate](https://mingrui-yu.github.io/files/23_ROBIO_award.pdf)] &emsp; _2023_
-- 清华大学综合优秀奖学金 (Tsinghua Comprehensive Excellence Scholarship) &emsp; _2022/2023_
-- 西安交大优秀毕业生 (Outstanding Graduate at XJTU) &emsp; _2020_
-- 西安交大一等奖学金 (First-Class Scholarship at XJTU) &emsp; _2019_
-- 国家奖学金 (China National Scholarship) &emsp; _2018_
-- 思源奖学金 (Siyuan Scholarship) &emsp; _2017_
-- 西安交大优秀学生 (Outstanding Student at XJTU) &emsp; _2017/2018/2019_
+- Tsinghua Comprehensive Excellence Scholarship (清华大学综合优秀奖学金) &emsp; _2022/2023_
+- Outstanding Graduate at XJTU (西安交大优秀毕业生) &emsp; _2020_
+- First-Class Scholarship at XJTU (西安交大一等奖学金) &emsp; _2019_
+- China National Scholarship for Undergraduate Students (本科生国家奖学金) &emsp; _2018_
+- Outstanding Student at XJTU (西安交大优秀学生) &emsp; _2017/2018/2019_
 
 ---
 
