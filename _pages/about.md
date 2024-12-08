@@ -90,6 +90,7 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Awards & Honors
 
+- Tsinghua Jiang Nan-Xiang Scholarship (清华大学蒋南翔奖学金) &emsp; _2024_
 - China National Scholarship for Graduate Students (研究生国家奖学金) (Ranked First in the Department) &emsp; _2024_
 - Best Paper Award at [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/) &emsp; _2023_
 - T.J. Tarn Best Paper Award in Robotics Finalist at 2023 IEEE ROBIO [[Certificate](https://mingrui-yu.github.io/files/23_ROBIO_award.pdf)] &emsp; _2023_
