@@ -52,11 +52,15 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Publications
 
+**Preprint**
+
+1. **M. Yu**, Y. Jiang, C. Chen, Y. Jia, and X. Li, "Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution", submitted to RA-L, 2024. [[Website](https://rgmc-xl-team.github.io/ingrasp_manipulation/)]
+
 **Journal Papers**
 
 1. **M. Yu**, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li, "Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments", **The International Journal of Robotics Research**, 2024. [[Paper](https://arxiv.org/abs/2310.09899)] [[Website](https://mingrui-yu.github.io/DLO_planning_2/)]
 2. **M. Yu**, K. Lv, H. Zhong, S. Song, and X. Li, "Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach," **IEEE Transactions on Robotics**, 2022. [[Paper](https://arxiv.org/abs/2205.04004)] [[Website](https://mingrui-yu.github.io/shape_control_DLO_2/)]
-3. **于铭瑞**, 李翔, "面向线状柔性物体的机器人操作研究进展与展望", [机器人](https://robot.sia.cn/), 2024.
+3. **于铭瑞**, 李翔, "面向线状柔性物体的机器人操作研究进展与展望", [机器人](https://robot.sia.cn/), 2024. [[Paper](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139)]
 
 **Conference Papers**
 
