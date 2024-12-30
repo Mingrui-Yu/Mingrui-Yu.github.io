@@ -52,7 +52,7 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Publications
 
-**Preprint**
+**Under Review**
 
 1. **M. Yu**, Y. Jiang, C. Chen, Y. Jia, and X. Li, "Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution", submitted to RA-L, 2024. [[Website](https://rgmc-xl-team.github.io/ingrasp_manipulation/)]
 
@@ -117,5 +117,6 @@ Topic: Reinforment learning for intelligent transportation system
 
 - Outstanding reviewer of IEEE Robotics and Automation Letters [[Certificate](https://mingrui-yu.github.io/files/24_RAL_outstanding_reviewer.jpg)]
 - Outstanding volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/23_rcar_volunteer.pdf)]
-- Reviewer for IEEE Transactions on Robotics, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
-- Reviewer for IEEE ICRA, IROS, ...
+- Reviewer for The International Journal of Robotics Research, IEEE Transactions on Robotics, IEEE Transactions on Automation Science and Engineering, IEEE/ASME Transactions on Mechatronics, IEEE Robotics and Automation Letters, ...
+- Reviewer for IJRR, T-RO, T-ASE, T-Mech, RA-L, ...
+- Reviewer for ICRA, IROS, ...
