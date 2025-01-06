@@ -95,6 +95,7 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Awards & Honors
 
+- 中国科协青年人才托举工程博士生专项项目 &emsp; _2024_
 - Tsinghua Jiang Nan-Xiang Scholarship (清华大学蒋南翔奖学金) &emsp; _2024_
 - China National Scholarship for Graduate Students (研究生国家奖学金) (Ranked First in the Department) &emsp; _2024_
 - Best Paper Award at [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/) &emsp; _2023_
