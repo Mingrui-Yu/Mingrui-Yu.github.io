@@ -44,15 +44,15 @@ body, html {
 
 .paper-title {
     font-size: 1.0rem;
-    line-height: 1.2;
+    line-height: 1.5;
     font-weight: bold;
     margin-top: 0.0rem;
     margin-bottom: 0.5rem;
 }
 
 .authors, .journal, .url, .info {
-    font-size: 1.0rem;
-    line-height: 1.1;
+    font-size: 0.8rem;
+    line-height: 1.5;
     margin-top: 0.0rem;
     margin-bottom: 0.2rem;
 }
@@ -71,7 +71,8 @@ body, html {
     }
 
     .paper-gif {
-        width: 80%;  /* Limit the width of the GIF to 80% of the viewport width */
+        width: 90%;  /* Limit the width of the GIF to 80% of the viewport width */
+        height: auto;
     }
 
     .paper-title {

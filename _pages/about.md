@@ -56,6 +56,8 @@ Topic: Reinforment learning for intelligent transportation system
 
 # Selected Publications
 
+Please refer to the [Publications page](https://mingrui-yu.github.io/publications) or <a href="https://scholar.google.com/citations?user=021Lx3IAAAAJ&hl=en">my Google Scholar profile</a> for all publications.
+
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
@@ -107,7 +109,7 @@ Topic: Reinforment learning for intelligent transportation system
   <div class="info-container">
     <p class="paper-title">面向线状柔性物体的机器人操作研究进展与展望</p>
     <p class="authors"> <b>于铭瑞</b>, 李翔 </p>
-    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, 2023  </p>
+    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, 2024  </p>
     <p class="url"> [<a href="https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139">Paper</a>] </p>
   </div>
 </div>
@@ -122,8 +124,22 @@ Topic: Reinforment learning for intelligent transportation system
   <div class="info-container">
     <p class="paper-title">In-Hand Following of Deformable Linear Objects Using Dexterous Fingers With Tactile Sensing</p>
     <p class="authors"> <b>M. Yu</b>, B. Liang, X. Zhang, X. Zhu, L. Sun, C. Wang, X. Li, M. Tomizuka </p>
-    <p class="journal"> IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2024  </p>
+    <p class="journal"> IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2024 (<b>Oral</b>) </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2403.12676">Paper</a>] [<a href="https://mingrui-yu.github.io/DLO_following/">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="files/publications/jiang2024contact.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Contact-Implicit Model Predictive Control for Dexterous In-hand Manipulation: A Long-Horizon and Robust Approach</p>
+    <p class="authors"> Y. Jiang, <b>M. Yu</b> , X. Zhu, M. Tomizuka, X. Li </p>
+    <p class="journal"> IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2024  </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2402.18897">Paper</a>] [<a href="https://director-of-g.github.io/in_hand_manipulation/">Website</a>] </p>
   </div>
 </div>
 
