@@ -10,19 +10,23 @@ body, html {
 /* The container that holds both the GIF and the information */
 .paper-container {
     display: flex;
+    flex-wrap: wrap;  /* Allow the layout to wrap on smaller screens */
     align-items: center; /* Vertically center content */
     justify-content: flex-start; /* Align content from the left */
     padding: 0;
     width: 100%; /* Ensure container takes up full width */
     margin: 0;
+    margin-top: 1rem;
     margin-bottom: 1rem;
+    border-bottom: 1px solid #ddd; /* Light gray border */
 }
 
 /* Left side: GIF */
 .gif-container {
-    flex: 0 0 30%; 
+    flex: 1 1 30%; 
     padding-right: 3%;
     text-align: center;
+    margin-bottom: 1rem;
 }
 
 /* GIF image */
@@ -33,8 +37,9 @@ body, html {
 
 /* Right side: Information */
 .info-container {
-    flex: 0 0 70%; /* Right side takes up 75% of the width */
+    flex: 1 1 70%; /* Right side takes up 75% of the width */
     padding-left: 0%; /* Space between the GIF and the text */
+    text-align: left;
 }
 
 .paper-title {
@@ -50,4 +55,30 @@ body, html {
     line-height: 1.1;
     margin-top: 0.0rem;
     margin-bottom: 0.2rem;
+}
+
+
+/* Responsive design for smaller screens (mobile devices) */
+@media ((max-width: 768px) and (orientation: portrait)) {
+    .gif-container {
+        flex: 1 1 100%;  /* Let the GIF take up the full width on small screens */
+        padding-right: 0;  /* Remove right padding on mobile */
+    }
+
+    .info-container {
+        flex: 1 1 80%;  /* Let the text take up the full width on small screens */
+        padding-left: 0;  /* Remove left padding on mobile */
+    }
+
+    .paper-gif {
+        width: 80%;  /* Limit the width of the GIF to 80% of the viewport width */
+    }
+
+    .paper-title {
+        font-size: 1rem;  /* Make title smaller on mobile */
+    }
+
+    .authors, .journal, .url {
+        font-size: 0.9rem;  /* Make text smaller on mobile */
+    }
 }
