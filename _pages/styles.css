@@ -1,0 +1,53 @@
+/* Reset some default styles */
+body, html {
+    /* margin: 0;
+    margin-bottom: 10rem;
+    padding: 0; */
+    width: 100%;  /* Ensure the body takes up full width */
+    box-sizing: border-box; /* Include padding and border in the element's total width */
+}
+
+/* The container that holds both the GIF and the information */
+.paper-container {
+    display: flex;
+    align-items: center; /* Vertically center content */
+    justify-content: flex-start; /* Align content from the left */
+    padding: 0;
+    width: 100%; /* Ensure container takes up full width */
+    margin: 0;
+    margin-bottom: 1rem;
+}
+
+/* Left side: GIF */
+.gif-container {
+    flex: 0 0 30%; 
+    padding-right: 3%;
+    text-align: center;
+}
+
+/* GIF image */
+.paper-gif {
+    height: 100%;
+    width: auto; 
+}
+
+/* Right side: Information */
+.info-container {
+    flex: 0 0 70%; /* Right side takes up 75% of the width */
+    padding-left: 0%; /* Space between the GIF and the text */
+}
+
+.paper-title {
+    font-size: 1.0rem;
+    line-height: 1.2;
+    font-weight: bold;
+    margin-top: 0.0rem;
+    margin-bottom: 0.5rem;
+}
+
+.authors, .journal, .url, .info {
+    font-size: 1.0rem;
+    line-height: 1.1;
+    margin-top: 0.0rem;
+    margin-bottom: 0.2rem;
+}
