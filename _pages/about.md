@@ -68,7 +68,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="paper-title">Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution</p>
     <p class="authors"> <b>M. Yu</b>, Y. Jiang, C. Chen, Y. Jia, and X. Li </p>
     <p class="journal"> Submitted to IEEE Robotics and Automation Letters, 2024  </p>
-    <p class="url"> [<a href="https://rgmc-xl-team.github.io/ingrasp_manipulation/">Website</a>] </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2502.07472">Paper</a>] [<a href="https://rgmc-xl-team.github.io/ingrasp_manipulation/">Website</a>] </p>
   </div>
 </div>
 
@@ -113,7 +113,6 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="url"> [<a href="https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139">Paper</a>] </p>
   </div>
 </div>
-
 
 <div class="paper-container">
   <!-- Left side: GIF -->
@@ -185,7 +184,6 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="url"> [<a href="https://arxiv.org/abs/2109.11091">Paper</a>] [<a href="https://mingrui-yu.github.io/shape_control_DLO/">Website</a>] </p>
   </div>
 </div>
-
 
 ---
 
