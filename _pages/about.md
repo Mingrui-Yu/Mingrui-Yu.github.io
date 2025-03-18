@@ -95,7 +95,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
   <div class="info-container">
     <p class="paper-title">Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution</p>
     <p class="authors"> <b>M. Yu</b>, Y. Jiang, C. Chen, Y. Jia, and X. Li </p>
-    <p class="journal"> Submitted to IEEE Robotics and Automation Letters, 2024  </p>
+    <p class="journal"> IEEE Robotics and Automation Letters (<b>RA-L</b>), 2025  </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2502.07472">Paper</a>] [<a href="https://rgmc-xl-team.github.io/ingrasp_manipulation/">Website</a>] </p>
   </div>
 </div>
@@ -109,7 +109,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
   <div class="info-container">
     <p class="paper-title">Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments</p>
     <p class="authors"> <b>M. Yu</b>, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li </p>
-    <p class="journal"> <b>The International Journal of Robotics Research</b>, 2024  </p>
+    <p class="journal"> The International Journal of Robotics Research (<b>IJRR</b>), 2024  </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2310.09899">Paper</a>] [<a href="https://mingrui-yu.github.io/DLO_planning_2/">Website</a>] </p>
   </div>
 </div>
@@ -123,7 +123,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
   <div class="info-container">
     <p class="paper-title">Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach</p>
     <p class="authors"> <b>M. Yu</b>, K. Lv, H. Zhong, S. Song, and X. Li </p>
-    <p class="journal"> <b>IEEE Transactions on Robotics</b>, 2023  </p>
+    <p class="journal"> IEEE Transactions on Robotics (<b>T-RO</b>), 2023  </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2205.04004">Paper</a>] [<a href="https://mingrui-yu.github.io/shape_control_DLO_2/">Website</a>] </p>
   </div>
 </div>
