@@ -16,7 +16,9 @@ redirect_from:
 I am Mingrui YU, a robotics researcher. I'm now pursuing the Ph.D. degree in the [Intelligent Manipulation Lab](https://thu-irml.com), Department of Automation, Tsinghua University, supervised by [Prof. Xiang Li](https://sites.google.com/view/homepageoflixiang/home).
 From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
-**Research Interest**: I'm interested in machine learning, planning, and control with their applications to robotic dexterous manipulation of various objects, including in-hand manipulation and deformable object manipulation.
+**Research Interest**:
+My research explores pathways towards achieving human-level dexterity for **robotic dexterous manipulation**, attempting to address challenges arising from the diversity of manipulated objects, the high dimensionality of robot motions, and the complexity of physical contacts.
+I believe the most promising solution for dexterous manipulation lies in the elegant integration of rigorous analytical motion computation, self-learning through exploration, and learning from large-scale human demonstrations.
 
 I am leading an NSFC Youth Student Research Project (for PhD students) / 首批国家自然科学基金青年学生基础研究项目（博士生项目）entitled "Visual-tactile dexterous manipulation of deformable linear objects with a dual-arm robot".
 
