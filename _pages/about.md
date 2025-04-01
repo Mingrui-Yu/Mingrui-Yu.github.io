@@ -17,7 +17,7 @@ I am Mingrui YU, a robotics researcher. I'm now pursuing the Ph.D. degree in the
 From 10/2023 to 03/2024, I was a visiting student at the [MSC Lab](https://msc.berkeley.edu/) in UC Berkeley, supervised by [Prof. Masayoshi Tomizuka](https://me.berkeley.edu/people/masayoshi-tomizuka/).
 
 **Research Interest**:
-My research focuses on advancing accurate and deployable **robotic dexterous manipulation** by addressing challenges arising from the diversity of manipulated objects, the high dimensionality of robot motions, and the complexity of physical contacts.
+My research focuses on advancing reliable **robotic dexterous manipulation** by addressing challenges arising from the diversity of manipulated objects, the high dimensionality of robot motions, and the complexity of physical contacts.
 I believe the most promising path to human-level dexterity lies in the elegant integration of rigorous analytical motion computation, self-learning through exploration, and learning from large-scale human demonstrations.
 My prior research includes dexterous in-hand manipulation, grasping, and deformable object manipulation.
 
