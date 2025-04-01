@@ -107,48 +107,6 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="files/publications/yu2024generalizable_small.gif" alt="GIF Description" class="paper-gif">
-  </div>
-  <!-- Right side: Paper Information -->
-  <div class="info-container">
-    <p class="paper-title">Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments</p>
-    <p class="authors"> <b>M. Yu</b>, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li </p>
-    <p class="journal"> The International Journal of Robotics Research (<b>IJRR</b>), 2024  </p>
-    <p class="url"> [<a href="https://arxiv.org/abs/2310.09899">Paper</a>] [<a href="https://mingrui-yu.github.io/DLO_planning_2/">Website</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <!-- Left side: GIF -->
-  <div class="gif-container">
-    <img src="files/publications/yu2023global.gif" alt="GIF Description" class="paper-gif">
-  </div>
-  <!-- Right side: Paper Information -->
-  <div class="info-container">
-    <p class="paper-title">Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach</p>
-    <p class="authors"> <b>M. Yu</b>, K. Lv, H. Zhong, S. Song, and X. Li </p>
-    <p class="journal"> IEEE Transactions on Robotics (<b>T-RO</b>), 2023  </p>
-    <p class="url"> [<a href="https://arxiv.org/abs/2205.04004">Paper</a>] [<a href="https://mingrui-yu.github.io/shape_control_DLO_2/">Website</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <!-- Left side: GIF -->
-  <div class="gif-container">
-    <img src="files/publications/DLO_review_16_9.jpg" alt="GIF Description" class="paper-gif">
-  </div>
-  <!-- Right side: Paper Information -->
-  <div class="info-container">
-    <p class="paper-title">面向线状柔性物体的机器人操作研究进展与展望</p>
-    <p class="authors"> <b>于铭瑞</b>, 李翔 </p>
-    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, 2024  </p>
-    <p class="url"> [<a href="https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139">Paper</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <!-- Left side: GIF -->
-  <div class="gif-container">
     <img src="files/publications/yu2024inhand.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
@@ -171,6 +129,34 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="authors"> Y. Jiang, <b>M. Yu</b>, X. Zhu, M. Tomizuka, X. Li </p>
     <p class="journal"> IEEE/RSJ International Conference on Intelligent Robots and Systems (<b>IROS</b>), 2024  </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2402.18897">Paper</a>] [<a href="https://director-of-g.github.io/in_hand_manipulation/">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="files/publications/yu2024generalizable_small.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Generalizable whole-body global manipulation of deformable linear objects by dual-arm robot in 3-D constrained environments</p>
+    <p class="authors"> <b>M. Yu</b>, K. Lv, C. Wang, Y. Jiang, M. Tomizuka, and X. Li </p>
+    <p class="journal"> The International Journal of Robotics Research (<b>IJRR</b>), 2024  </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2310.09899">Paper</a>] [<a href="https://mingrui-yu.github.io/DLO_planning_2/">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="files/publications/yu2023global.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Global Model Learning for Large Deformation Control of Elastic Deformable Linear Objects: An Efficient and Adaptive Approach</p>
+    <p class="authors"> <b>M. Yu</b>, K. Lv, H. Zhong, S. Song, and X. Li </p>
+    <p class="journal"> IEEE Transactions on Robotics (<b>T-RO</b>), 2023  </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2205.04004">Paper</a>] [<a href="https://mingrui-yu.github.io/shape_control_DLO_2/">Website</a>] </p>
   </div>
 </div>
 
@@ -214,6 +200,20 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="authors"> <b>M. Yu</b>, H. Zhong, and X. Li </p>
     <p class="journal"> IEEE International Conference on Robotics and Automation (<b>ICRA</b>), 2022  </p>
     <p class="url"> [<a href="https://arxiv.org/abs/2109.11091">Paper</a>] [<a href="https://mingrui-yu.github.io/shape_control_DLO/">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
+    <img src="files/publications/DLO_review_16_9.jpg" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">面向线状柔性物体的机器人操作研究进展与展望</p>
+    <p class="authors"> <b>于铭瑞</b>, 李翔 </p>
+    <p class="journal"> <a href="https://robot.sia.cn/">机器人</a>, 2024  </p>
+    <p class="url"> [<a href="https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.240139">Paper</a>] </p>
   </div>
 </div>
 
