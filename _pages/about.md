@@ -79,6 +79,20 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
+    <img src="files/publications/xin2025analyzing.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation</p>
+    <p class="authors"> C. Xin*, <b>M. Yu</b>*, Y. Jiang, Z. Zhang, and X. Li </p>
+    <p class="journal"> Submitted to IEEE Robotics and Automation Practice, 2025  </p>
+    <p class="url">  [<a href="https://mingrui-yu.github.io/retargeting/">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
     <img src="files/publications/jiang2025robust.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
