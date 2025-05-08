@@ -44,6 +44,10 @@ GPA: 4.09/4.3, Ranking: 1/35
 
 # Research Experience
 
+**General Vision Lab, Beijing Institute of General Artifical Intelligence (BIGAI) (Beijing, China)** &emsp; _04/2025 - present_  
+Advisor: Dr. Tengyu Liu, Dr. Siyuan Huang  
+Topic: Learning dexterous manipulation from humans
+
 **Robotics X, Tencent (Shenzhen, China)** &emsp; _06/2024 - 09/2024_  
 Advisor: Dr. Yu Zheng  
 Topic: Dexterous grasping and manipulation
