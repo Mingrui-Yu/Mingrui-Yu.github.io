@@ -76,7 +76,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="paper-title">Robust Model-Based In-Hand Manipulation with Integrated Real-Time Motion-Contact Planning and Tracking</p>
     <p class="authors"> Y. Jiang, <b>M. Yu</b>, X. Zhu, M. Tomizuka, and X. Li </p>
     <p class="journal"> Submitted to The International Journal of Robotics Research (<b>IJRR</b>), 2025 </p>
-    <p class="url">  [<a href="https://director-of-g.github.io/in_hand_manipulation_2/">Website</a>] </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2505.04978">Paper</a>]  [<a href="https://director-of-g.github.io/in_hand_manipulation_2/">Website</a>] </p>
   </div>
 </div>
 
