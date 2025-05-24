@@ -104,7 +104,8 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="paper-title">Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation</p>
     <p class="authors"> C. Xin*, <b>M. Yu</b>*, Y. Jiang, Z. Zhang, and X. Li </p>
     <p class="journal"> Submitted to IEEE Robotics and Automation Practice, 2025  </p>
-    <p class="url">  [<a href="https://mingrui-yu.github.io/retargeting/">Website</a>] </p>
+    <p class="info"> Presented at ICRA 2025 Workshop"Handy Moves: Dexterity in Multi-Fingered Hands" </p>
+    <p class="url"> [<a href="https://openreview.net/forum?id=ojCJehWjy7">Paper</a>] [<a href="https://mingrui-yu.github.io/retargeting/">Website</a>] </p>
   </div>
 </div>
 
@@ -118,6 +119,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="paper-title">Robust In-Hand Reorientation with Hierarchical RL-Based Motion Primitives and Model-Based Regrasping</p>
     <p class="authors"> Y. Jiang, <b>M. Yu</b>, C. Chen, Y. Jia, and X. Li </p>
     <p class="journal"> Submitted to IEEE Robotics and Automation Practice, 2025  </p>
+    <p class="info"> Part of the <b>1st Place</b> Solution in the In-Hand Manipulation Track of ICRA 2024 Robotic Grasping and Manipulation Competition</p>
     <p class="url">  [<a href="https://rgmc-xl-team.github.io/inhand_reorientation/">Website</a>] </p>
   </div>
 </div>
@@ -132,6 +134,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="paper-title">Robotic In-Hand Manipulation for Large-Range and Precise Object Movement: The RGMC Champion Solution</p>
     <p class="authors"> <b>M. Yu</b>, Y. Jiang, C. Chen, Y. Jia, and X. Li </p>
     <p class="journal"> IEEE Robotics and Automation Letters (<b>RA-L</b>), 2025  </p>
+    <p class="info"> Part of the <b>1st Place</b> Solution in the In-Hand Manipulation Track of ICRA 2024 Robotic Grasping and Manipulation Competition</p>
     <p class="url"> [<a href="https://arxiv.org/abs/2502.07472">Paper</a>] [<a href="https://rgmc-xl-team.github.io/ingrasp_manipulation/">Website</a>] </p>
   </div>
 </div>
