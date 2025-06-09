@@ -44,7 +44,7 @@ GPA: 4.09/4.3, Ranking: 1/35
 
 # Research Experience
 
-**General Vision Lab, Beijing Institute of General Artifical Intelligence (BIGAI) (Beijing, China)** &emsp; _04/2025 - present_  
+**General Vision Lab, Beijing Institute of General Artificial Intelligence (BIGAI) (Beijing, China)** &emsp; _04/2025 - present_  
 Advisor: Dr. Tengyu Liu, Dr. Siyuan Huang  
 Topic: Learning dexterous manipulation from humans
 
@@ -266,14 +266,14 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 # Awards & Honors
 
 - China Association for Science and Technology, Youth Talent Support Program for PhD students (中国科协青年人才托举工程博士生专项项目) &emsp; _2024_
-- Tsinghua Jiang Nan-Xiang Scholarship (清华大学蒋南翔奖学金) &emsp; _2024_
+- Tsinghua Jiang Nan-Xiang Scholarship (清华大学蒋南翔奖学金) [[Certificate](../files/24_jiangnanxiang.pdf)] &emsp; _2024_
 - China National Scholarship for Graduate Students (研究生国家奖学金) [[Certificate](../files/24_national_scholarship.pdf)] &emsp; _2024_
 - Best Paper Award at [ICRA 2023 Workshop on Representing and Manipulating Deformable Objects](https://deformable-workshop.github.io/icra2023/) &emsp; _2023_
 - T.J. Tarn Best Paper Award in Robotics Finalist at 2023 IEEE ROBIO [[Certificate](https://mingrui-yu.github.io/files/23_ROBIO_award.pdf)] &emsp; _2023_
 - Tsinghua Comprehensive Excellence Scholarship (清华大学综合优秀奖学金) &emsp; _2022/2023_
 - Outstanding Graduate at XJTU (西安交大优秀毕业生) &emsp; _2020_
 - First-Class Scholarship at XJTU (西安交大一等奖学金) &emsp; _2019_
-- China National Scholarship for Undergraduate Students (本科生国家奖学金) &emsp; _2018_
+- China National Scholarship for Undergraduate Students (本科生国家奖学金) [[Certificate](../files/18_national_scholarship.pdf)] &emsp; _2018_
 - Outstanding Student at XJTU (西安交大优秀学生) &emsp; _2017/2018/2019_
 
 ---
