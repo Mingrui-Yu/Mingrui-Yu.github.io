@@ -83,6 +83,20 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
+    <img src="files/publications/lv2025kinematic.gif" alt="GIF Description" class="paper-gif">
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Kinematics-Aware Diffusion Policy with Consistent 3D Observation and Action Space for Whole-Arm Robotic Manipulation</p>
+    <p class="authors"> K. Lv*, <b>M. Yu</b>*, Y. Jia, C. Zhang, and X. Li </p>
+    <p class="journal"> Submitted to IEEE Robotics and Automation Letters (<b>RA-L</b>), 2025  </p>
+    <p class="url"> [<a href="https://kinematics-aware-diffusion-policy.github.io">Website</a>] </p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
     <img src="files/publications/yu2025minimizing.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
