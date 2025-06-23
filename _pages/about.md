@@ -97,20 +97,6 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
-    <img src="files/publications/yu2025minimizing.gif" alt="GIF Description" class="paper-gif">
-  </div>
-  <!-- Right side: Paper Information -->
-  <div class="info-container">
-    <p class="paper-title">Minimizing Undesired Object Movements in Dexterous Grasping Control with Tactile-Feedback Arm-Hand Coordination</p>
-    <p class="authors"> <b>M. Yu</b>*, X. Jiang*, Y. Jiang, and X. Li </p>
-    <p class="journal"> Submitted to <b>IROS</b>, 2025  </p>
-    <p class="url">  [<a href="https://mingrui-yu.github.io/tactile-grasp/">Website</a>] </p>
-  </div>
-</div>
-
-<div class="paper-container">
-  <!-- Left side: GIF -->
-  <div class="gif-container">
     <img src="files/publications/xin2025analyzing.gif" alt="GIF Description" class="paper-gif">
   </div>
   <!-- Right side: Paper Information -->
