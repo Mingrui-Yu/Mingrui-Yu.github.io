@@ -21,6 +21,7 @@ body, html {
     border-bottom: 1px solid #ddd; /* Light gray border */
 }
 
+/* 容器保持不变 */
 .gif-container {
     flex: 1 1 30%; 
     padding-right: 3%;
@@ -28,17 +29,11 @@ body, html {
     margin-bottom: 1rem;
 }
 
-/* 确保 video 自适应父容器宽度并居中 */
-.gif-container video {
+/* GIF 和 Video 共用样式 */
+.paper-gif {
     max-width: 100%;
     height: auto;
-    display: inline-block; /* 让 text-align: center 生效 */
-}
-
-/* GIF image */
-.paper-gif {
-    height: 100%;
-    width: auto; 
+    display: inline-block; /* 居中 */
 }
 
 /* Right side: Information */
