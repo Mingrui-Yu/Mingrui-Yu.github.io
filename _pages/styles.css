@@ -21,7 +21,7 @@ body, html {
     border-bottom: 1px solid #ddd; /* Light gray border */
 }
 
-/* 容器保持不变 */
+/* Left side: GIF */
 .gif-container {
     flex: 1 1 30%; 
     padding-right: 3%;
@@ -29,12 +29,20 @@ body, html {
     margin-bottom: 1rem;
 }
 
-/* GIF 和 Video 共用样式 */
+/* GIF image */
 .paper-gif {
-    max-width: 100%;
-    height: auto;
-    display: inline-block; /* 居中 */
+    height: 100%;
+    width: auto; 
 }
+
+/* GIF image */
+.paper-mp4 {
+    width: 100%;       /* 宽度撑满容器 */
+    max-width: 300px;  /* 可调，和 GIF 视觉大小一致 */
+    height: auto;      /* 保持16:9比例 */
+    display: inline-block; /* 让 text-align: center 生效 */
+}
+
 
 /* Right side: Information */
 .info-container {

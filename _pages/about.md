@@ -69,7 +69,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: Video -->
   <div class="gif-container">
-    <video autoplay loop muted playsinline class="paper-gif">
+    <video autoplay loop muted playsinline class="paper-mp4">
       <source src="files/publications/yu2025coordinated.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
