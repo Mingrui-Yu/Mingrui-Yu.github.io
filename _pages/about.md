@@ -67,6 +67,23 @@ Topic: Reinforment learning for intelligent transportation system
 Please refer to the [Publications page](https://mingrui-yu.github.io/publications) or <a href="https://scholar.google.com/citations?user=021Lx3IAAAAJ&hl=en">my Google Scholar profile</a> for all publications.
 
 <div class="paper-container">
+  <!-- Left side: Video -->
+  <div class="gif-container">
+    <video autoplay loop muted playsinline class="paper-gif">
+      <source src="files/publications/yu2025coordinated.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty</p>
+    <p class="authors"><b>M. Yu</b>*, Y. Jiang*, Y. Jia, Y. Ren, and X. Li</p>
+    <p class="journal">Submitted to <b>ICRA</b>, 2026</p>
+    <p class="url">[<a href="https://ada-grasp-ctrl.github.io">Website</a>]</p>
+  </div>
+</div>
+
+<div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
     <img src="files/publications/jiang2025model.gif" alt="GIF Description" class="paper-gif">
