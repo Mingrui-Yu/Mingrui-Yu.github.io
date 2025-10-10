@@ -315,7 +315,9 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 
 # Academic Service
 
-- Outstanding reviewer of IEEE Robotics and Automation Letters [[Certificate](https://mingrui-yu.github.io/files/24_RAL_outstanding_reviewer.jpg)]
-- Outstanding volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/23_rcar_volunteer.pdf)]
+- Main Organizer of 2025 IROS Workshop [_Robotic Manipulation of Deformable Objects (ROMADO)_](https://romado-workshop.github.io/ROMADO2025.github.io/) &emsp; _2025_
+- Co-Organizer of 2025 CoRL Workshop: [_Beyond Rigid Worlds: Rerpresenting and Interacting with Non-Rigid Objects (RINO)_](https://rino-workshop.github.io/) &emsp; _2025_
+- Outstanding reviewer of IEEE Robotics and Automation Letters [[Certificate](https://mingrui-yu.github.io/files/24_RAL_outstanding_reviewer.jpg)] &emsp; _2024_
+- Outstanding volunteer of 2023 IEEE International Conference on Real-Time Computing and Robotics (RCAR) [[Certificate](https://mingrui-yu.github.io/files/23_rcar_volunteer.pdf)] &emsp; _2023_
 - Reviewer for IJRR, T-RO, T-ASE, T-Mech, RA-L, ...
 - Reviewer for ICRA, IROS, ...
