@@ -147,7 +147,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
   <div class="info-container">
     <p class="paper-title">Robust In-Hand Reorientation with Hierarchical RL-Based Motion Primitives and Model-Based Regrasping</p>
     <p class="authors"> Y. Jiang, <b>M. Yu</b>, C. Chen, Y. Jia, and X. Li </p>
-    <p class="journal"> Submitted to IEEE Robotics and Automation Practice (<b>RA-P</b>), 2025  </p>
+    <p class="journal"> IEEE Robotics and Automation Practice (<b>RA-P</b>), 2025  </p>
     <p class="info"> Part of the <b>1st Place Solution</b> in the In-Hand Manipulation Track & the <b>Most Elegant Solution</b> of ICRA 2024 Robotic Grasping and Manipulation Competition (RGMC)</p>
     <p class="url">  [<a href="https://rgmc-xl-team.github.io/inhand_reorientation/">Website</a>] </p>
   </div>
