@@ -89,7 +89,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
    <!-- Right side: Paper Information -->
   <div class="info-container">
     <p class="paper-title">Arm-Aware Guided Dexterous Grasp Generation with Arm-Agnostic Grasp Models</p>
-    <p class="authors">Y. Jia*, Y. Jiang* <b>M. Yu</b>*, K. Lv, Y. Ren, and X. Li</p>
+    <p class="authors">Y. Jia*, Y. Jiang*, <b>M. Yu</b>*, K. Lv, Y. Ren, and X. Li</p>
     <p class="journal">Submitted to <b>RA-L</b>, 2025</p>
     <p class="url">[<a href="https://arm-aware-dexgrasp.github.io/">Website</a>]</p>
   </div>
