@@ -84,6 +84,20 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
 <div class="paper-container">
   <!-- Left side: GIF -->
   <div class="gif-container">
+    <img src="files/publications/jia2025arm.gif" alt="GIF Description" class="paper-gif">
+  </div>
+   <!-- Right side: Paper Information -->
+  <div class="info-container">
+    <p class="paper-title">Arm-Aware Guided Dexterous Grasp Generation with Arm-Agnostic Grasp Models</p>
+    <p class="authors">Y. Jia*, Y. Jiang* <b>M. Yu</b>*, K. Lv, Y. Ren, and X. Li</p>
+    <p class="journal">Submitted to <b>RA-L</b>, 2025</p>
+    <p class="url">[<a href="https://arm-aware-dexgrasp.github.io/">Website</a>]</p>
+  </div>
+</div>
+
+<div class="paper-container">
+  <!-- Left side: GIF -->
+  <div class="gif-container">
     <img src="files/publications/yu2025coordinated.gif" alt="GIF Description" class="paper-gif">
   </div>
    <!-- Right side: Paper Information -->
@@ -134,7 +148,7 @@ Please refer to the [Publications page](https://mingrui-yu.github.io/publication
     <p class="authors"> C. Xin*, <b>M. Yu</b>*, Y. Jiang, Z. Zhang, and X. Li </p>
     <p class="journal"> Submitted to IEEE Robotics and Automation Practice (<b>RA-P</b>), 2025  </p>
     <p class="info"> Presented at ICRA 2025 Workshop"Handy Moves: Dexterity in Multi-Fingered Hands" </p>
-    <p class="url"> [<a href="https://openreview.net/forum?id=ojCJehWjy7">Paper</a>] [<a href="https://mingrui-yu.github.io/retargeting/">Website</a>] </p>
+    <p class="url"> [<a href="https://arxiv.org/abs/2506.09384">Paper</a>] [<a href="https://mingrui-yu.github.io/retargeting/">Website</a>] </p>
   </div>
 </div>
 
